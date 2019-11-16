@@ -1,0 +1,1656 @@
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ნ ი	NOUN;Number=Plur;Case=Nom
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს მ ა	NOUN;Number=Sing;Case=Erg
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს თ ა	NOUN;Number=Plur;Case=Gen
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ს	NOUN;Number=Sing;Case=Dat
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ი ს	NOUN;Number=Sing;Case=Gen
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ი თ	NOUN;Number=Sing;Case=Ins
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ა დ	NOUN;Number=Sing;VerbForm=Short
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ო	NOUN;Number=Sing;Case=Voc
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ა პ ი რ ო ს ი	NOUN;Number=Sing;Case=Nom	პ ა პ ი რ ო ს ნ ო	NOUN;Number=Plur;Case=Voc
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ა ნ ი	NOUN;Number=Plur;Case=Nom
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ა მ	NOUN;Number=Sing;Case=Erg
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ა თ ა	NOUN;Number=Plur;Case=Gen
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ა ს	NOUN;Number=Sing;Case=Dat
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ი ს	NOUN;Number=Sing;Case=Gen
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ი თ	NOUN;Number=Sing;Case=Ins
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ა დ	NOUN;Number=Sing;VerbForm=Short
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ტ ა რ ხ უ ნ ა	NOUN;Number=Sing;Case=Nom	ტ ა რ ხ უ ნ ა ნ ო	NOUN;Number=Plur;Case=Voc
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ნ ი	NOUN;Number=Plur;Case=Nom
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ მ ა	NOUN;Number=Sing;Case=Erg
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ თ ა	NOUN;Number=Plur;Case=Gen
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ს	NOUN;Number=Sing;Case=Dat
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ი ს	NOUN;Number=Sing;Case=Gen
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ი თ	NOUN;Number=Sing;Case=Ins
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ა დ	NOUN;Number=Sing;VerbForm=Short
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ო	NOUN;Number=Sing;Case=Voc
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ლ ე ღ ვ ი	NOUN;Number=Sing;Case=Nom	ლ ე ღ ვ ნ ო	NOUN;Number=Plur;Case=Voc
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ნ ი	NOUN;Number=Plur;Case=Nom
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ მ ა	NOUN;Number=Sing;Case=Erg
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ თ ა	NOUN;Number=Plur;Case=Gen
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ს	NOUN;Number=Sing;Case=Dat
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ი ს	NOUN;Number=Sing;Case=Gen
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ი თ	NOUN;Number=Sing;Case=Ins
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ა დ	NOUN;Number=Sing;VerbForm=Short
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ო	NOUN;Number=Sing;Case=Voc
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ლ ა მ ა ზ მ ა ნ ი	NOUN;Number=Sing;Case=Nom	ლ ა მ ა ზ მ ა ნ ნ ო	NOUN;Number=Plur;Case=Voc
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ნ ი	NOUN;Number=Plur;Case=Nom
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ მ ა	NOUN;Number=Sing;Case=Erg
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ თ ა	NOUN;Number=Plur;Case=Gen
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ს	NOUN;Number=Sing;Case=Dat
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ი ს	NOUN;Number=Sing;Case=Gen
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ი თ	NOUN;Number=Sing;Case=Ins
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ო	NOUN;Number=Sing;Case=Voc
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+კ უ პ ა ტ ი	NOUN;Number=Sing;Case=Nom	კ უ პ ა ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ა ნ ი	NOUN;Number=Plur;Case=Nom
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ა მ	NOUN;Number=Sing;Case=Erg
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ა თ ა	NOUN;Number=Plur;Case=Gen
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ა ს	NOUN;Number=Sing;Case=Dat
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ი ს	NOUN;Number=Sing;Case=Gen
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ი თ	NOUN;Number=Sing;Case=Ins
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ა დ	NOUN;Number=Sing;VerbForm=Short
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ბ რ უ ნ ვ ა	NOUN;Number=Sing;Case=Nom	ბ რ უ ნ ვ ა ნ ო	NOUN;Number=Plur;Case=Voc
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ნ ი	NOUN;Number=Plur;Case=Nom
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ მ ა	NOUN;Number=Sing;Case=Erg
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ თ ა	NOUN;Number=Plur;Case=Gen
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ს	NOUN;Number=Sing;Case=Dat
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ი ს	NOUN;Number=Sing;Case=Gen
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ი თ	NOUN;Number=Sing;Case=Ins
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ო	NOUN;Number=Sing;Case=Voc
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა დ რ ი ა ნ ი	NOUN;Number=Sing;Case=Nom	ა დ რ ი ა ნ ნ ო	NOUN;Number=Plur;Case=Voc
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ნ ი	NOUN;Number=Plur;Case=Nom
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ მ ა	NOUN;Number=Sing;Case=Erg
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ თ ა	NOUN;Number=Plur;Case=Gen
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ს	NOUN;Number=Sing;Case=Dat
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ი ს	NOUN;Number=Sing;Case=Gen
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ი თ	NOUN;Number=Sing;Case=Ins
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ო	NOUN;Number=Sing;Case=Voc
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა გ ე ნ ტ ი	NOUN;Number=Sing;Case=Nom	ა გ ე ნ ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ა ნ ი	NOUN;Number=Plur;Case=Nom
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ა მ	NOUN;Number=Sing;Case=Erg
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ა თ ა	NOUN;Number=Plur;Case=Gen
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ა ს	NOUN;Number=Sing;Case=Dat
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ი ს	NOUN;Number=Sing;Case=Gen
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ი თ	NOUN;Number=Sing;Case=Ins
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა ბ რ ა კ ა დ ა ბ რ ა	NOUN;Number=Sing;Case=Nom	ა ბ რ ა კ ა დ ა ბ რ ა ნ ო	NOUN;Number=Plur;Case=Voc
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ნ ი	NOUN;Number=Plur;Case=Nom
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ მ ა	NOUN;Number=Sing;Case=Erg
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ თ ა	NOUN;Number=Plur;Case=Gen
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ს	NOUN;Number=Sing;Case=Dat
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ი ს	NOUN;Number=Sing;Case=Gen
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ი თ	NOUN;Number=Sing;Case=Ins
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ო	NOUN;Number=Sing;Case=Voc
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა ვ ი ა ხ ა ზ ი	NOUN;Number=Sing;Case=Nom	ა ვ ი ა ხ ა ზ ნ ო	NOUN;Number=Plur;Case=Voc
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ნ ი	NOUN;Number=Plur;Case=Nom
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ მ ა	NOUN;Number=Sing;Case=Erg
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ თ ა	NOUN;Number=Plur;Case=Gen
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ს	NOUN;Number=Sing;Case=Dat
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ი ს	NOUN;Number=Sing;Case=Gen
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ი თ	NOUN;Number=Sing;Case=Ins
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ო	NOUN;Number=Sing;Case=Voc
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა კ ვ ა ლ ა ნ გ ი	NOUN;Number=Sing;Case=Nom	ა კ ვ ა ლ ა ნ გ ნ ო	NOUN;Number=Plur;Case=Voc
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ა ნ ი	NOUN;Number=Plur;Case=Nom
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ა მ	NOUN;Number=Sing;Case=Erg
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ა თ ა	NOUN;Number=Plur;Case=Gen
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ა ს	NOUN;Number=Sing;Case=Dat
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ი ს	NOUN;Number=Sing;Case=Gen
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ი თ	NOUN;Number=Sing;Case=Ins
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა ო რ ტ ა	NOUN;Number=Sing;Case=Nom	ა ო რ ტ ა ნ ო	NOUN;Number=Plur;Case=Voc
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ნ ი	NOUN;Number=Plur;Case=Nom
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ მ ა	NOUN;Number=Sing;Case=Erg
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ თ ა	NOUN;Number=Plur;Case=Gen
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ს	NOUN;Number=Sing;Case=Dat
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ი ს	NOUN;Number=Sing;Case=Gen
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ი თ	NOUN;Number=Sing;Case=Ins
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ო	NOUN;Number=Sing;Case=Voc
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა პ ლ ო მ ბ ი	NOUN;Number=Sing;Case=Nom	ა პ ლ ო მ ბ ნ ო	NOUN;Number=Plur;Case=Voc
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ნ ი	NOUN;Number=Plur;Case=Nom
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ მ ა	NOUN;Number=Sing;Case=Erg
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ თ ა	NOUN;Number=Plur;Case=Gen
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ს	NOUN;Number=Sing;Case=Dat
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ი ს	NOUN;Number=Sing;Case=Gen
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ი თ	NOUN;Number=Sing;Case=Ins
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ო	NOUN;Number=Sing;Case=Voc
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა ჯ ა ს პ ი	NOUN;Number=Sing;Case=Nom	ა ჯ ა ს პ ნ ო	NOUN;Number=Plur;Case=Voc
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ე ბ ი	NOUN;Number=Plur;Case=Nom
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ნ ი	NOUN;Number=Plur;Case=Nom
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო მ	NOUN;Number=Sing;Case=Erg
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო თ ა	NOUN;Number=Plur;Case=Gen
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ს	NOUN;Number=Sing;Case=Gen
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ე ბ ს	NOUN;Number=Plur;Case=Dat
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო თ ი	NOUN;Number=Sing;Case=Ins
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო დ	NOUN;Number=Sing;VerbForm=Short
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ე ბ ო	NOUN;Number=Plur;Case=Voc
+ბ უ ნ გ ა ლ ო	NOUN;Number=Sing;Case=Nom	ბ უ ნ გ ა ლ ო ნ ო	NOUN;Number=Plur;Case=Voc
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ნ ი	NOUN;Number=Plur;Case=Nom
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ მ ა	NOUN;Number=Sing;Case=Erg
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ თ ა	NOUN;Number=Plur;Case=Gen
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ს	NOUN;Number=Sing;Case=Dat
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ი ს	NOUN;Number=Sing;Case=Gen
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ი თ	NOUN;Number=Sing;Case=Ins
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ო	NOUN;Number=Sing;Case=Voc
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+გ ა რ დ ე რ ო ბ ი	NOUN;Number=Sing;Case=Nom	გ ა რ დ ე რ ო ბ ნ ო	NOUN;Number=Plur;Case=Voc
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ე ბ ი	NOUN;Number=Plur;Case=Nom
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ნ ი	NOUN;Number=Plur;Case=Nom
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს მ ა	NOUN;Number=Sing;Case=Erg
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს თ ა	NOUN;Number=Plur;Case=Gen
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ს	NOUN;Number=Sing;Case=Dat
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ე ბ ს	NOUN;Number=Plur;Case=Dat
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ი ს	NOUN;Number=Sing;Case=Gen
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ი თ	NOUN;Number=Sing;Case=Ins
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ა დ	NOUN;Number=Sing;VerbForm=Short
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ო	NOUN;Number=Sing;Case=Voc
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ე ბ ო	NOUN;Number=Plur;Case=Voc
+გ ი ს ო ს ი	NOUN;Number=Sing;Case=Nom	გ ი ს ო ს ნ ო	NOUN;Number=Plur;Case=Voc
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ე ბ ი	NOUN;Number=Plur;Case=Nom
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ნ ი	NOUN;Number=Plur;Case=Nom
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო მ	NOUN;Number=Sing;Case=Erg
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო თ ა	NOUN;Number=Plur;Case=Gen
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ს	NOUN;Number=Sing;Case=Gen
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ე ბ ს	NOUN;Number=Plur;Case=Dat
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო თ ი	NOUN;Number=Sing;Case=Ins
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო დ	NOUN;Number=Sing;VerbForm=Short
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ე ბ ო	NOUN;Number=Plur;Case=Voc
+გ ო ნ ი ო	NOUN;Number=Sing;Case=Nom	გ ო ნ ი ო ნ ო	NOUN;Number=Plur;Case=Voc
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ი	NOUN;Number=Sing;Case=Nom
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ე ბ ი	NOUN;Number=Plur;Case=Nom
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ნ ი	NOUN;Number=Plur;Case=Nom
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ მ ა	NOUN;Number=Sing;Case=Erg
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ თ ა	NOUN;Number=Plur;Case=Gen
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ს	NOUN;Number=Sing;Case=Dat
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ე ბ ს	NOUN;Number=Plur;Case=Dat
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ი ს	NOUN;Number=Sing;Case=Gen
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ი თ	NOUN;Number=Sing;Case=Ins
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ა დ	NOUN;Number=Sing;VerbForm=Short
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ო	NOUN;Number=Sing;Case=Voc
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ე ბ ო	NOUN;Number=Plur;Case=Voc
+გ უ ა შ ი	NOUN;Number=Sing;Case=Nom	გ უ ა შ ნ ო	NOUN;Number=Plur;Case=Voc
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ა ნ ი	NOUN;Number=Plur;Case=Nom
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ა მ	NOUN;Number=Sing;Case=Erg
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ა თ ა	NOUN;Number=Plur;Case=Gen
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ა ს	NOUN;Number=Sing;Case=Dat
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ი ს	NOUN;Number=Sing;Case=Gen
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ი თ	NOUN;Number=Sing;Case=Ins
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+დ ა მ ბ ა	NOUN;Number=Sing;Case=Nom	დ ა მ ბ ა ნ ო	NOUN;Number=Plur;Case=Voc
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ე ბ ი	NOUN;Number=Plur;Case=Nom
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ნ ი	NOUN;Number=Plur;Case=Nom
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ მ ა	NOUN;Number=Sing;Case=Erg
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ თ ა	NOUN;Number=Plur;Case=Gen
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ს	NOUN;Number=Sing;Case=Dat
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ე ბ ს	NOUN;Number=Plur;Case=Dat
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ი ს	NOUN;Number=Sing;Case=Gen
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ი თ	NOUN;Number=Sing;Case=Ins
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ა დ	NOUN;Number=Sing;VerbForm=Short
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ო	NOUN;Number=Sing;Case=Voc
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ე ბ ო	NOUN;Number=Plur;Case=Voc
+დ ე ზ ე რ ტ ი რ ი	NOUN;Number=Sing;Case=Nom	დ ე ზ ე რ ტ ი რ ნ ო	NOUN;Number=Plur;Case=Voc
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ნ ი	NOUN;Number=Plur;Case=Nom
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ მ ა	NOUN;Number=Sing;Case=Erg
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ თ ა	NOUN;Number=Plur;Case=Gen
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ს	NOUN;Number=Sing;Case=Dat
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ი ს	NOUN;Number=Sing;Case=Gen
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ი თ	NOUN;Number=Sing;Case=Ins
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ა დ	NOUN;Number=Sing;VerbForm=Short
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ო	NOUN;Number=Sing;Case=Voc
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ე მ პ ი რ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ე მ პ ი რ ი ზ მ ნ ო	NOUN;Number=Plur;Case=Voc
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ნ ი	NOUN;Number=Plur;Case=Nom
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ მ ა	NOUN;Number=Sing;Case=Erg
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ თ ა	NOUN;Number=Plur;Case=Gen
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ს	NOUN;Number=Sing;Case=Dat
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ი ს	NOUN;Number=Sing;Case=Gen
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ი თ	NOUN;Number=Sing;Case=Ins
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ო	NOUN;Number=Sing;Case=Voc
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ე ს კ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ე ს კ ო რ ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ნ ი	NOUN;Number=Plur;Case=Nom
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ მ ა	NOUN;Number=Sing;Case=Erg
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ თ ა	NOUN;Number=Plur;Case=Gen
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ს	NOUN;Number=Sing;Case=Dat
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ი ს	NOUN;Number=Sing;Case=Gen
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ი თ	NOUN;Number=Sing;Case=Ins
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ა დ	NOUN;Number=Sing;VerbForm=Short
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ო	NOUN;Number=Sing;Case=Voc
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ზ ა მ ბ ა ხ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა ხ ნ ო	NOUN;Number=Plur;Case=Voc
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ნ ი	NOUN;Number=Plur;Case=Nom
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ მ ა	NOUN;Number=Sing;Case=Erg
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ თ ა	NOUN;Number=Plur;Case=Gen
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ს	NOUN;Number=Sing;Case=Dat
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ი ს	NOUN;Number=Sing;Case=Gen
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ი თ	NOUN;Number=Sing;Case=Ins
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ო	NOUN;Number=Sing;Case=Voc
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ი ა კ ო ბ ი	NOUN;Number=Sing;Case=Nom	ი ა კ ო ბ ნ ო	NOUN;Number=Plur;Case=Voc
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ნ ი	NOUN;Number=Plur;Case=Nom
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ მ ა	NOUN;Number=Sing;Case=Erg
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ თ ა	NOUN;Number=Plur;Case=Gen
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ს	NOUN;Number=Sing;Case=Dat
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ი ს	NOUN;Number=Sing;Case=Gen
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ი თ	NOUN;Number=Sing;Case=Ins
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ო	NOUN;Number=Sing;Case=Voc
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ი დ ე ა ლ ი	NOUN;Number=Sing;Case=Nom	ი დ ე ა ლ ნ ო	NOUN;Number=Plur;Case=Voc
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ა ნ ი	NOUN;Number=Plur;Case=Nom
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ა მ	NOUN;Number=Sing;Case=Erg
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ა თ ა	NOUN;Number=Plur;Case=Gen
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ა ს	NOUN;Number=Sing;Case=Dat
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ი ს	NOUN;Number=Sing;Case=Gen
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ი თ	NOUN;Number=Sing;Case=Ins
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ი დ ე ნ ტ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ი დ ე ნ ტ უ რ ო ბ ა ნ ო	NOUN;Number=Plur;Case=Voc
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ნ ი	NOUN;Number=Plur;Case=Nom
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ მ ა	NOUN;Number=Sing;Case=Erg
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ თ ა	NOUN;Number=Plur;Case=Gen
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ს	NOUN;Number=Sing;Case=Dat
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ი ს	NOUN;Number=Sing;Case=Gen
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ი თ	NOUN;Number=Sing;Case=Ins
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ა დ	NOUN;Number=Sing;VerbForm=Short
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ო	NOUN;Number=Sing;Case=Voc
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ი მ პ ე რ ი ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	ი მ პ ე რ ი ა ლ ი ზ მ ნ ო	NOUN;Number=Plur;Case=Voc
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ე ბ ი	NOUN;Number=Plur;Case=Nom
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ნ ი	NOUN;Number=Plur;Case=Nom
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს მ ა	NOUN;Number=Sing;Case=Erg
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს თ ა	NOUN;Number=Plur;Case=Gen
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ს	NOUN;Number=Sing;Case=Dat
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ე ბ ს	NOUN;Number=Plur;Case=Dat
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ი ს	NOUN;Number=Sing;Case=Gen
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ი თ	NOUN;Number=Sing;Case=Ins
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ა დ	NOUN;Number=Sing;VerbForm=Short
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ო	NOUN;Number=Sing;Case=Voc
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ე ბ ო	NOUN;Number=Plur;Case=Voc
+ი მ პ უ ლ ს ი	NOUN;Number=Sing;Case=Nom	ი მ პ უ ლ ს ნ ო	NOUN;Number=Plur;Case=Voc
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ე ბ ი	NOUN;Number=Plur;Case=Nom
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ნ ი	NOUN;Number=Plur;Case=Nom
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე მ	NOUN;Number=Sing;Case=Erg
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე თ ა	NOUN;Number=Plur;Case=Gen
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ს	NOUN;Number=Sing;Case=Dat
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ე ბ ს	NOUN;Number=Plur;Case=Dat
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ი ს	NOUN;Number=Sing;Case=Gen
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ი თ	NOUN;Number=Sing;Case=Ins
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე დ	NOUN;Number=Sing;VerbForm=Short
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ე ბ ო	NOUN;Number=Plur;Case=Voc
+ი ო რ დ ა ნ ე	NOUN;Number=Sing;Case=Nom	ი ო რ დ ა ნ ე ნ ო	NOUN;Number=Plur;Case=Voc
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ა ნ ი	NOUN;Number=Plur;Case=Nom
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ა მ	NOUN;Number=Sing;Case=Erg
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ა თ ა	NOUN;Number=Plur;Case=Gen
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ა ს	NOUN;Number=Sing;Case=Dat
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ი ს	NOUN;Number=Sing;Case=Gen
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ი თ	NOUN;Number=Sing;Case=Ins
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+კ ა მ ბ ა ლ ა	NOUN;Number=Sing;Case=Nom	კ ა მ ბ ა ლ ა ნ ო	NOUN;Number=Plur;Case=Voc
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ა ნ ი	NOUN;Number=Plur;Case=Nom
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ა მ	NOUN;Number=Sing;Case=Erg
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ა თ ა	NOUN;Number=Plur;Case=Gen
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ა ს	NOUN;Number=Sing;Case=Dat
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ი ს	NOUN;Number=Sing;Case=Gen
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ი თ	NOUN;Number=Sing;Case=Ins
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+კ ა ნ ტ ა ტ ა	NOUN;Number=Sing;Case=Nom	კ ა ნ ტ ა ტ ა ნ ო	NOUN;Number=Plur;Case=Voc
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ე ბ ი	NOUN;Number=Plur;Case=Nom
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ნ ი	NOUN;Number=Plur;Case=Nom
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ მ ა	NOUN;Number=Sing;Case=Erg
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ თ ა	NOUN;Number=Plur;Case=Gen
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ს	NOUN;Number=Sing;Case=Dat
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ე ბ ს	NOUN;Number=Plur;Case=Dat
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ი ს	NOUN;Number=Sing;Case=Gen
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ი თ	NOUN;Number=Sing;Case=Ins
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ა დ	NOUN;Number=Sing;VerbForm=Short
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ო	NOUN;Number=Sing;Case=Voc
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ე ბ ო	NOUN;Number=Plur;Case=Voc
+კ ა რ ნ ა ხ ი	NOUN;Number=Sing;Case=Nom	კ ა რ ნ ა ხ ნ ო	NOUN;Number=Plur;Case=Voc
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ე ბ ი	NOUN;Number=Plur;Case=Nom
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ა ნ ი	NOUN;Number=Plur;Case=Nom
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ა მ	NOUN;Number=Sing;Case=Erg
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ა თ ა	NOUN;Number=Plur;Case=Gen
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ა ს	NOUN;Number=Sing;Case=Dat
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ე ბ ს	NOUN;Number=Plur;Case=Dat
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ი ს	NOUN;Number=Sing;Case=Gen
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ი თ	NOUN;Number=Sing;Case=Ins
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ა დ	NOUN;Number=Sing;VerbForm=Short
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ე ბ ო	NOUN;Number=Plur;Case=Voc
+კ ა ტ ა ბ ა ლ ა ხ ა	NOUN;Number=Sing;Case=Nom	კ ა ტ ა ბ ა ლ ა ხ ა ნ ო	NOUN;Number=Plur;Case=Voc
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ი	NOUN;Number=Sing;Case=Nom
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ნ ი	NOUN;Number=Plur;Case=Nom
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ მ ა	NOUN;Number=Sing;Case=Erg
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ თ ა	NOUN;Number=Plur;Case=Gen
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ს	NOUN;Number=Sing;Case=Dat
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ი ს	NOUN;Number=Sing;Case=Gen
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ი თ	NOUN;Number=Sing;Case=Ins
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ო	NOUN;Number=Sing;Case=Voc
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+კ ე ბ ი	NOUN;Number=Sing;Case=Nom	კ ე ბ ნ ო	NOUN;Number=Plur;Case=Voc
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ნ ი	NOUN;Number=Plur;Case=Nom
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ მ ა	NOUN;Number=Sing;Case=Erg
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ თ ა	NOUN;Number=Plur;Case=Gen
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ს	NOUN;Number=Sing;Case=Dat
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ი ს	NOUN;Number=Sing;Case=Gen
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ი თ	NOUN;Number=Sing;Case=Ins
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ო	NOUN;Number=Sing;Case=Voc
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ლ ე ი ტ ე ნ ა ნ ტ ი	NOUN;Number=Sing;Case=Nom	ლ ე ი ტ ე ნ ა ნ ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ნ ი	NOUN;Number=Plur;Case=Nom
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ მ ა	NOUN;Number=Sing;Case=Erg
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ თ ა	NOUN;Number=Plur;Case=Gen
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ს	NOUN;Number=Sing;Case=Dat
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ი ს	NOUN;Number=Sing;Case=Gen
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ი თ	NOUN;Number=Sing;Case=Ins
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ა დ	NOUN;Number=Sing;VerbForm=Short
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ო	NOUN;Number=Sing;Case=Voc
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ლ ი ნ ო ლ ე უ მ ი	NOUN;Number=Sing;Case=Nom	ლ ი ნ ო ლ ე უ მ ნ ო	NOUN;Number=Plur;Case=Voc
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ა ნ ი	NOUN;Number=Plur;Case=Nom
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ა მ	NOUN;Number=Sing;Case=Erg
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ა თ ა	NOUN;Number=Plur;Case=Gen
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ა ს	NOUN;Number=Sing;Case=Dat
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ი ს	NOUN;Number=Sing;Case=Gen
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ი თ	NOUN;Number=Sing;Case=Ins
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ა დ	NOUN;Number=Sing;VerbForm=Short
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ლ ო გ ი კ ა	NOUN;Number=Sing;Case=Nom	ლ ო გ ი კ ა ნ ო	NOUN;Number=Plur;Case=Voc
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ნ ი	NOUN;Number=Plur;Case=Nom
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ მ ა	NOUN;Number=Sing;Case=Erg
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ თ ა	NOUN;Number=Plur;Case=Gen
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ს	NOUN;Number=Sing;Case=Dat
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ი ს	NOUN;Number=Sing;Case=Gen
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ი თ	NOUN;Number=Sing;Case=Ins
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ო	NOUN;Number=Sing;Case=Voc
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+მ ა დ ლ ი	NOUN;Number=Sing;Case=Nom	მ ა დ ლ ნ ო	NOUN;Number=Plur;Case=Voc
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ნ ი	NOUN;Number=Plur;Case=Nom
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ მ ა	NOUN;Number=Sing;Case=Erg
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ თ ა	NOUN;Number=Plur;Case=Gen
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ს	NOUN;Number=Sing;Case=Dat
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ი ს	NOUN;Number=Sing;Case=Gen
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ი თ	NOUN;Number=Sing;Case=Ins
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ო	NOUN;Number=Sing;Case=Voc
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+მ ა ნ ჟ ე ტ ი	NOUN;Number=Sing;Case=Nom	მ ა ნ ჟ ე ტ ნ ო	NOUN;Number=Plur;Case=Voc
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ე ბ ი	NOUN;Number=Plur;Case=Nom
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ა ნ ი	NOUN;Number=Plur;Case=Nom
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ა მ	NOUN;Number=Sing;Case=Erg
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ა თ ა	NOUN;Number=Plur;Case=Gen
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ა ს	NOUN;Number=Sing;Case=Dat
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ე ბ ს	NOUN;Number=Plur;Case=Dat
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ი ს	NOUN;Number=Sing;Case=Gen
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ი თ	NOUN;Number=Sing;Case=Ins
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ა დ	NOUN;Number=Sing;VerbForm=Short
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ე ბ ო	NOUN;Number=Plur;Case=Voc
+მ ა ნ ს ა რ დ ა	NOUN;Number=Sing;Case=Nom	მ ა ნ ს ა რ დ ა ნ ო	NOUN;Number=Plur;Case=Voc
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ე ბ ი	NOUN;Number=Plur;Case=Nom
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ა ნ ი	NOUN;Number=Plur;Case=Nom
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ა მ	NOUN;Number=Sing;Case=Erg
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ა თ ა	NOUN;Number=Plur;Case=Gen
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ა ს	NOUN;Number=Sing;Case=Dat
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ე ბ ს	NOUN;Number=Plur;Case=Dat
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ი ს	NOUN;Number=Sing;Case=Gen
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ი თ	NOUN;Number=Sing;Case=Ins
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ა დ	NOUN;Number=Sing;VerbForm=Short
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ე ბ ო	NOUN;Number=Plur;Case=Voc
+მ ა ჰ ა რ ა ჯ ა	NOUN;Number=Sing;Case=Nom	მ ა ჰ ა რ ა ჯ ა ნ ო	NOUN;Number=Plur;Case=Voc
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ი	NOUN;Number=Sing;Case=Nom
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ე ბ ი	NOUN;Number=Plur;Case=Nom
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ნ ი	NOUN;Number=Plur;Case=Nom
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ მ ა	NOUN;Number=Sing;Case=Erg
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ თ ა	NOUN;Number=Plur;Case=Gen
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ს	NOUN;Number=Sing;Case=Dat
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ე ბ ს	NOUN;Number=Plur;Case=Dat
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ი ს	NOUN;Number=Sing;Case=Gen
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ი თ	NOUN;Number=Sing;Case=Ins
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ა დ	NOUN;Number=Sing;VerbForm=Short
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ო	NOUN;Number=Sing;Case=Voc
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ე ბ ო	NOUN;Number=Plur;Case=Voc
+მ ე რ ი	NOUN;Number=Sing;Case=Nom	მ ე რ ნ ო	NOUN;Number=Plur;Case=Voc
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ე ბ ი	NOUN;Number=Plur;Case=Nom
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ნ ი	NOUN;Number=Plur;Case=Nom
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ მ ა	NOUN;Number=Sing;Case=Erg
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ თ ა	NOUN;Number=Plur;Case=Gen
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ს	NOUN;Number=Sing;Case=Dat
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ე ბ ს	NOUN;Number=Plur;Case=Dat
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ი ს	NOUN;Number=Sing;Case=Gen
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ი თ	NOUN;Number=Sing;Case=Ins
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ა დ	NOUN;Number=Sing;VerbForm=Short
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ო	NOUN;Number=Sing;Case=Voc
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ე ბ ო	NOUN;Number=Plur;Case=Voc
+მ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	მ ი ლ ა კ ნ ო	NOUN;Number=Plur;Case=Voc
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ე ბ ი	NOUN;Number=Plur;Case=Nom
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ა ნ ი	NOUN;Number=Plur;Case=Nom
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ა მ	NOUN;Number=Sing;Case=Erg
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ა თ ა	NOUN;Number=Plur;Case=Gen
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ა ს	NOUN;Number=Sing;Case=Dat
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ე ბ ს	NOUN;Number=Plur;Case=Dat
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ი ს	NOUN;Number=Sing;Case=Gen
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ი თ	NOUN;Number=Sing;Case=Ins
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ა დ	NOUN;Number=Sing;VerbForm=Short
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ე ბ ო	NOUN;Number=Plur;Case=Voc
+მ ი ნ ე რ ა ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	მ ი ნ ე რ ა ლ ო გ ი ა ნ ო	NOUN;Number=Plur;Case=Voc
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ე ბ ი	NOUN;Number=Plur;Case=Nom
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ნ ი	NOUN;Number=Plur;Case=Nom
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ მ ა	NOUN;Number=Sing;Case=Erg
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ თ ა	NOUN;Number=Plur;Case=Gen
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ს	NOUN;Number=Sing;Case=Dat
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ე ბ ს	NOUN;Number=Plur;Case=Dat
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ი ს	NOUN;Number=Sing;Case=Gen
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ი თ	NOUN;Number=Sing;Case=Ins
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ა დ	NOUN;Number=Sing;VerbForm=Short
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ო	NOUN;Number=Sing;Case=Voc
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ე ბ ო	NOUN;Number=Plur;Case=Voc
+მ ო ნ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	მ ო ნ ტ ა ჟ ნ ო	NOUN;Number=Plur;Case=Voc
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ნ ი	NOUN;Number=Plur;Case=Nom
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ მ ა	NOUN;Number=Sing;Case=Erg
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ თ ა	NOUN;Number=Plur;Case=Gen
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ს	NOUN;Number=Sing;Case=Dat
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ი ს	NOUN;Number=Sing;Case=Gen
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ი თ	NOUN;Number=Sing;Case=Ins
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ო	NOUN;Number=Sing;Case=Voc
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ნ ა რ ვ ა ლ ი	NOUN;Number=Sing;Case=Nom	ნ ა რ ვ ა ლ ნ ო	NOUN;Number=Plur;Case=Voc
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ნ ი	NOUN;Number=Plur;Case=Nom
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ მ ა	NOUN;Number=Sing;Case=Erg
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ თ ა	NOUN;Number=Plur;Case=Gen
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ს	NOUN;Number=Sing;Case=Dat
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ი ს	NOUN;Number=Sing;Case=Gen
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ი თ	NOUN;Number=Sing;Case=Ins
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ო	NOUN;Number=Sing;Case=Voc
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ნ ა წ ა რ მ ო ე ბ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ა რ მ ო ე ბ ნ ო	NOUN;Number=Plur;Case=Voc
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ნ ი	NOUN;Number=Plur;Case=Nom
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ მ ა	NOUN;Number=Sing;Case=Erg
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ თ ა	NOUN;Number=Plur;Case=Gen
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ს	NOUN;Number=Sing;Case=Dat
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ი ს	NOUN;Number=Sing;Case=Gen
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ი თ	NOUN;Number=Sing;Case=Ins
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ა დ	NOUN;Number=Sing;VerbForm=Short
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ო	NOUN;Number=Sing;Case=Voc
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ნ ა წ ი ლ ა კ ი	NOUN;Number=Sing;Case=Nom	ნ ა წ ი ლ ა კ ნ ო	NOUN;Number=Plur;Case=Voc
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ნ ი	NOUN;Number=Plur;Case=Nom
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ მ ა	NOUN;Number=Sing;Case=Erg
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ თ ა	NOUN;Number=Plur;Case=Gen
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ს	NOUN;Number=Sing;Case=Dat
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ი ს	NOUN;Number=Sing;Case=Gen
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ი თ	NOUN;Number=Sing;Case=Ins
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ა დ	NOUN;Number=Sing;VerbForm=Short
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ო	NOUN;Number=Sing;Case=Voc
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ნ ე რ ვ ი	NOUN;Number=Sing;Case=Nom	ნ ე რ ვ ნ ო	NOUN;Number=Plur;Case=Voc
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ნ ი	NOUN;Number=Plur;Case=Nom
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ მ ა	NOUN;Number=Sing;Case=Erg
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ თ ა	NOUN;Number=Plur;Case=Gen
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ს	NOUN;Number=Sing;Case=Dat
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ი ს	NOUN;Number=Sing;Case=Gen
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ი თ	NOUN;Number=Sing;Case=Ins
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ო	NOUN;Number=Sing;Case=Voc
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ნ ი ჰ ი ლ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ნ ი ჰ ი ლ ი ს ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ა ნ ი	NOUN;Number=Plur;Case=Nom
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ა მ	NOUN;Number=Sing;Case=Erg
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ა თ ა	NOUN;Number=Plur;Case=Gen
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ა ს	NOUN;Number=Sing;Case=Dat
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ი ს	NOUN;Number=Sing;Case=Gen
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ი თ	NOUN;Number=Sing;Case=Ins
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ნ ო რ მ ა ლ უ რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ნ ო რ მ ა ლ უ რ ო ბ ა ნ ო	NOUN;Number=Plur;Case=Voc
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ნ ი	NOUN;Number=Plur;Case=Nom
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო მ	NOUN;Number=Sing;Case=Erg
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო თ ა	NOUN;Number=Plur;Case=Gen
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ს	NOUN;Number=Sing;Case=Gen
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო თ ი	NOUN;Number=Sing;Case=Ins
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო დ	NOUN;Number=Sing;VerbForm=Short
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ა ლ ტ ო	NOUN;Number=Sing;Case=Nom	პ ა ლ ტ ო ნ ო	NOUN;Number=Plur;Case=Voc
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ი	NOUN;Number=Sing;Case=Nom
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ნ ი	NOUN;Number=Plur;Case=Nom
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ მ ა	NOUN;Number=Sing;Case=Erg
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ თ ა	NOUN;Number=Plur;Case=Gen
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ს	NOUN;Number=Sing;Case=Dat
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ი ს	NOUN;Number=Sing;Case=Gen
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ი თ	NOUN;Number=Sing;Case=Ins
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ა დ	NOUN;Number=Sing;VerbForm=Short
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ო	NOUN;Number=Sing;Case=Voc
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ა ჟ ი	NOUN;Number=Sing;Case=Nom	პ ა ჟ ნ ო	NOUN;Number=Plur;Case=Voc
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ნ ი	NOUN;Number=Plur;Case=Nom
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ მ ა	NOUN;Number=Sing;Case=Erg
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ თ ა	NOUN;Number=Plur;Case=Gen
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ს	NOUN;Number=Sing;Case=Dat
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ი ს	NOUN;Number=Sing;Case=Gen
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ი თ	NOUN;Number=Sing;Case=Ins
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ა დ	NOUN;Number=Sing;VerbForm=Short
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ო	NOUN;Number=Sing;Case=Voc
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ა რ ა ლ ე ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	პ ა რ ა ლ ე ლ ი ზ მ ნ ო	NOUN;Number=Plur;Case=Voc
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ნ ი	NOUN;Number=Plur;Case=Nom
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ მ ა	NOUN;Number=Sing;Case=Erg
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ თ ა	NOUN;Number=Plur;Case=Gen
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ს	NOUN;Number=Sing;Case=Dat
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ი ს	NOUN;Number=Sing;Case=Gen
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ი თ	NOUN;Number=Sing;Case=Ins
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ო	NOUN;Number=Sing;Case=Voc
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ე რ ს ო ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	პ ე რ ს ო ნ ა ლ ნ ო	NOUN;Number=Plur;Case=Voc
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ნ ი	NOUN;Number=Plur;Case=Nom
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო მ	NOUN;Number=Sing;Case=Erg
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო თ ა	NOUN;Number=Plur;Case=Gen
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ს	NOUN;Number=Sing;Case=Gen
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო თ ი	NOUN;Number=Sing;Case=Ins
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო დ	NOUN;Number=Sing;VerbForm=Short
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ი კ ო ლ ო	NOUN;Number=Sing;Case=Nom	პ ი კ ო ლ ო ნ ო	NOUN;Number=Plur;Case=Voc
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ნ ი	NOUN;Number=Plur;Case=Nom
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ მ ა	NOUN;Number=Sing;Case=Erg
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ თ ა	NOUN;Number=Plur;Case=Gen
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ს	NOUN;Number=Sing;Case=Dat
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ი ს	NOUN;Number=Sing;Case=Gen
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ი თ	NOUN;Number=Sing;Case=Ins
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ო	NOUN;Number=Sing;Case=Voc
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ი ლ პ ი ლ ი	NOUN;Number=Sing;Case=Nom	პ ი ლ პ ი ლ ნ ო	NOUN;Number=Plur;Case=Voc
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე	NOUN;Number=Sing;Case=Nom
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ნ ი	NOUN;Number=Plur;Case=Nom
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე მ	NOUN;Number=Sing;Case=Erg
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე თ ა	NOUN;Number=Plur;Case=Gen
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ს	NOUN;Number=Sing;Case=Dat
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ი ს	NOUN;Number=Sing;Case=Gen
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ი თ	NOUN;Number=Sing;Case=Ins
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე დ	NOUN;Number=Sing;VerbForm=Short
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ი უ რ ე	NOUN;Number=Sing;Case=Nom	პ ი უ რ ე ნ ო	NOUN;Number=Plur;Case=Voc
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ნ ი	NOUN;Number=Plur;Case=Nom
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ მ ა	NOUN;Number=Sing;Case=Erg
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ თ ა	NOUN;Number=Plur;Case=Gen
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ს	NOUN;Number=Sing;Case=Dat
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ი ს	NOUN;Number=Sing;Case=Gen
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ი თ	NOUN;Number=Sing;Case=Ins
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ა დ	NOUN;Number=Sing;VerbForm=Short
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ო	NOUN;Number=Sing;Case=Voc
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ო ზ ი ტ ი ვ ი	NOUN;Number=Sing;Case=Nom	პ ო ზ ი ტ ი ვ ნ ო	NOUN;Number=Plur;Case=Voc
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ნ ი	NOUN;Number=Plur;Case=Nom
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ მ ა	NOUN;Number=Sing;Case=Erg
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ თ ა	NOUN;Number=Plur;Case=Gen
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ს	NOUN;Number=Sing;Case=Dat
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ი ს	NOUN;Number=Sing;Case=Gen
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ი თ	NOUN;Number=Sing;Case=Ins
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ა დ	NOUN;Number=Sing;VerbForm=Short
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ო	NOUN;Number=Sing;Case=Voc
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ ო პ უ რ ი	NOUN;Number=Sing;Case=Nom	პ ო პ უ რ ნ ო	NOUN;Number=Plur;Case=Voc
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ე ბ ი	NOUN;Number=Plur;Case=Nom
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ნ ი	NOUN;Number=Plur;Case=Nom
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს მ ა	NOUN;Number=Sing;Case=Erg
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს თ ა	NOUN;Number=Plur;Case=Gen
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ს	NOUN;Number=Sing;Case=Dat
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ე ბ ს	NOUN;Number=Plur;Case=Dat
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ი ს	NOUN;Number=Sing;Case=Gen
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ი თ	NOUN;Number=Sing;Case=Ins
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ა დ	NOUN;Number=Sing;VerbForm=Short
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ო	NOUN;Number=Sing;Case=Voc
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ე ბ ო	NOUN;Number=Plur;Case=Voc
+პ რ ი მ უ ს ი	NOUN;Number=Sing;Case=Nom	პ რ ი მ უ ს ნ ო	NOUN;Number=Plur;Case=Voc
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ	NOUN;Number=Sing;Case=Nom
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ე ბ ი	NOUN;Number=Plur;Case=Nom
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ნ ი	NOUN;Number=Plur;Case=Nom
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ მ	NOUN;Number=Sing;Case=Erg
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ თ ა	NOUN;Number=Plur;Case=Gen
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ს	NOUN;Number=Sing;Case=Gen
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ე ბ ს	NOUN;Number=Plur;Case=Dat
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ თ ი	NOUN;Number=Sing;Case=Ins
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ დ	NOUN;Number=Sing;VerbForm=Short
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ე ბ ო	NOUN;Number=Plur;Case=Voc
+რ ა გ უ	NOUN;Number=Sing;Case=Nom	რ ა გ უ ნ ო	NOUN;Number=Plur;Case=Voc
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ე ბ ი	NOUN;Number=Plur;Case=Nom
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ნ ი	NOUN;Number=Plur;Case=Nom
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ მ ა	NOUN;Number=Sing;Case=Erg
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ თ ა	NOUN;Number=Plur;Case=Gen
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ს	NOUN;Number=Sing;Case=Dat
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ე ბ ს	NOUN;Number=Plur;Case=Dat
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ი ს	NOUN;Number=Sing;Case=Gen
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ი თ	NOUN;Number=Sing;Case=Ins
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ა დ	NOUN;Number=Sing;VerbForm=Short
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ო	NOUN;Number=Sing;Case=Voc
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ე ბ ო	NOUN;Number=Plur;Case=Voc
+რ ე ა ლ ი ზ მ ი	NOUN;Number=Sing;Case=Nom	რ ე ა ლ ი ზ მ ნ ო	NOUN;Number=Plur;Case=Voc
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ე ბ ი	NOUN;Number=Plur;Case=Nom
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ა ნ ი	NOUN;Number=Plur;Case=Nom
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ა მ	NOUN;Number=Sing;Case=Erg
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ა თ ა	NOUN;Number=Plur;Case=Gen
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ა ს	NOUN;Number=Sing;Case=Dat
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ე ბ ს	NOUN;Number=Plur;Case=Dat
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ი ს	NOUN;Number=Sing;Case=Gen
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ი თ	NOUN;Number=Sing;Case=Ins
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ა დ	NOUN;Number=Sing;VerbForm=Short
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ე ბ ო	NOUN;Number=Plur;Case=Voc
+რ ე გ ი ს ტ რ ა ტ უ რ ა	NOUN;Number=Sing;Case=Nom	რ ე გ ი ს ტ რ ა ტ უ რ ა ნ ო	NOUN;Number=Plur;Case=Voc
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ე ბ ი	NOUN;Number=Plur;Case=Nom
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ნ ი	NOUN;Number=Plur;Case=Nom
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ მ ა	NOUN;Number=Sing;Case=Erg
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ თ ა	NOUN;Number=Plur;Case=Gen
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ს	NOUN;Number=Sing;Case=Dat
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ე ბ ს	NOUN;Number=Plur;Case=Dat
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ი ს	NOUN;Number=Sing;Case=Gen
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ი თ	NOUN;Number=Sing;Case=Ins
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ა დ	NOUN;Number=Sing;VerbForm=Short
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ო	NOUN;Number=Sing;Case=Voc
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ე ბ ო	NOUN;Number=Plur;Case=Voc
+რ ე პ ო რ ტ ა ჟ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ა ჟ ნ ო	NOUN;Number=Plur;Case=Voc
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ე ბ ი	NOUN;Number=Plur;Case=Nom
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ნ ი	NOUN;Number=Plur;Case=Nom
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ მ ა	NOUN;Number=Sing;Case=Erg
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ თ ა	NOUN;Number=Plur;Case=Gen
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ს	NOUN;Number=Sing;Case=Dat
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ე ბ ს	NOUN;Number=Plur;Case=Dat
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ი ს	NOUN;Number=Sing;Case=Gen
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ი თ	NOUN;Number=Sing;Case=Ins
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ა დ	NOUN;Number=Sing;VerbForm=Short
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ო	NOUN;Number=Sing;Case=Voc
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ე ბ ო	NOUN;Number=Plur;Case=Voc
+რ ე პ ო რ ტ ი ო რ ი	NOUN;Number=Sing;Case=Nom	რ ე პ ო რ ტ ი ო რ ნ ო	NOUN;Number=Plur;Case=Voc
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ნ ი	NOUN;Number=Plur;Case=Nom
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ მ ა	NOUN;Number=Sing;Case=Erg
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ თ ა	NOUN;Number=Plur;Case=Gen
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ს	NOUN;Number=Sing;Case=Dat
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ი ს	NOUN;Number=Sing;Case=Gen
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ი თ	NOUN;Number=Sing;Case=Ins
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ო	NOUN;Number=Sing;Case=Voc
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+რ ე ს კ რ ი პ ტ ი	NOUN;Number=Sing;Case=Nom	რ ე ს კ რ ი პ ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ა ნ ი	NOUN;Number=Plur;Case=Nom
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ა მ	NOUN;Number=Sing;Case=Erg
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ა თ ა	NOUN;Number=Plur;Case=Gen
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ა ს	NOUN;Number=Sing;Case=Dat
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ი ს	NOUN;Number=Sing;Case=Gen
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ი თ	NOUN;Number=Sing;Case=Ins
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ა დ	NOUN;Number=Sing;VerbForm=Short
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ე ი ს მ ო ლ ო გ ი ა	NOUN;Number=Sing;Case=Nom	ს ე ი ს მ ო ლ ო გ ი ა ნ ო	NOUN;Number=Plur;Case=Voc
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ნ ი	NOUN;Number=Plur;Case=Nom
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ მ ა	NOUN;Number=Sing;Case=Erg
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ თ ა	NOUN;Number=Plur;Case=Gen
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ს	NOUN;Number=Sing;Case=Dat
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ი ს	NOUN;Number=Sing;Case=Gen
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ი თ	NOUN;Number=Sing;Case=Ins
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ა დ	NOUN;Number=Sing;VerbForm=Short
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ო	NOUN;Number=Sing;Case=Voc
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ე კ ა ტ ო რ ი	NOUN;Number=Sing;Case=Nom	ს ე კ ა ტ ო რ ნ ო	NOUN;Number=Plur;Case=Voc
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ნ ი	NOUN;Number=Plur;Case=Nom
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ მ ა	NOUN;Number=Sing;Case=Erg
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ თ ა	NOUN;Number=Plur;Case=Gen
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ს	NOUN;Number=Sing;Case=Dat
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ი ს	NOUN;Number=Sing;Case=Gen
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ი თ	NOUN;Number=Sing;Case=Ins
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ა დ	NOUN;Number=Sing;VerbForm=Short
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ო	NOUN;Number=Sing;Case=Voc
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ე რ ვ ე რ ი	NOUN;Number=Sing;Case=Nom	ს ე რ ვ ე რ ნ ო	NOUN;Number=Plur;Case=Voc
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ნ ი	NOUN;Number=Plur;Case=Nom
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე მ	NOUN;Number=Sing;Case=Erg
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე თ ა	NOUN;Number=Plur;Case=Gen
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ს	NOUN;Number=Sing;Case=Dat
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ი ს	NOUN;Number=Sing;Case=Gen
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ი თ	NOUN;Number=Sing;Case=Ins
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე დ	NOUN;Number=Sing;VerbForm=Short
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ი ა დ ვ ი ლ ე	NOUN;Number=Sing;Case=Nom	ს ი ა დ ვ ი ლ ე ნ ო	NOUN;Number=Plur;Case=Voc
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ნ ი	NOUN;Number=Plur;Case=Nom
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ მ ა	NOUN;Number=Sing;Case=Erg
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ თ ა	NOUN;Number=Plur;Case=Gen
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ს	NOUN;Number=Sing;Case=Dat
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ი ს	NOUN;Number=Sing;Case=Gen
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ი თ	NOUN;Number=Sing;Case=Ins
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ო	NOUN;Number=Sing;Case=Voc
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ი გ ა რ ე ტ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ა რ ე ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ნ ი	NOUN;Number=Plur;Case=Nom
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ მ ა	NOUN;Number=Sing;Case=Erg
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ თ ა	NOUN;Number=Plur;Case=Gen
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ს	NOUN;Number=Sing;Case=Dat
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ი ს	NOUN;Number=Sing;Case=Gen
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ი თ	NOUN;Number=Sing;Case=Ins
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ო	NOUN;Number=Sing;Case=Voc
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ი გ ნ ა ლ ი	NOUN;Number=Sing;Case=Nom	ს ი გ ნ ა ლ ნ ო	NOUN;Number=Plur;Case=Voc
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ნ ი	NOUN;Number=Plur;Case=Nom
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე მ	NOUN;Number=Sing;Case=Erg
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე თ ა	NOUN;Number=Plur;Case=Gen
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ს	NOUN;Number=Sing;Case=Dat
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ი ს	NOUN;Number=Sing;Case=Gen
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ი თ	NOUN;Number=Sing;Case=Ins
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე დ	NOUN;Number=Sing;VerbForm=Short
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ი დ ა მ წ ვ რ ე	NOUN;Number=Sing;Case=Nom	ს ი დ ა მ წ ვ რ ე ნ ო	NOUN;Number=Plur;Case=Voc
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ნ ი	NOUN;Number=Plur;Case=Nom
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ მ ა	NOUN;Number=Sing;Case=Erg
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ თ ა	NOUN;Number=Plur;Case=Gen
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ს	NOUN;Number=Sing;Case=Dat
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ი ს	NOUN;Number=Sing;Case=Gen
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ი თ	NOUN;Number=Sing;Case=Ins
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ა დ	NOUN;Number=Sing;VerbForm=Short
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ო	NOUN;Number=Sing;Case=Voc
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ი მ ბ ი ო ზ ი	NOUN;Number=Sing;Case=Nom	ს ი მ ბ ი ო ზ ნ ო	NOUN;Number=Plur;Case=Voc
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ნ ი	NOUN;Number=Plur;Case=Nom
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე მ	NOUN;Number=Sing;Case=Erg
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე თ ა	NOUN;Number=Plur;Case=Gen
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ს	NOUN;Number=Sing;Case=Dat
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ი ს	NOUN;Number=Sing;Case=Gen
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ი თ	NOUN;Number=Sing;Case=Ins
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე დ	NOUN;Number=Sing;VerbForm=Short
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ი მ ჭ ი დ რ ო ვ ე	NOUN;Number=Sing;Case=Nom	ს ი მ ჭ ი დ რ ო ვ ე ნ ო	NOUN;Number=Plur;Case=Voc
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ნ ი	NOUN;Number=Plur;Case=Nom
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე მ	NOUN;Number=Sing;Case=Erg
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე თ ა	NOUN;Number=Plur;Case=Gen
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ს	NOUN;Number=Sing;Case=Dat
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ი ს	NOUN;Number=Sing;Case=Gen
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ი თ	NOUN;Number=Sing;Case=Ins
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე დ	NOUN;Number=Sing;VerbForm=Short
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ი ხ ი ს ტ ე	NOUN;Number=Sing;Case=Nom	ს ი ხ ი ს ტ ე ნ ო	NOUN;Number=Plur;Case=Voc
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ა ნ ი	NOUN;Number=Plur;Case=Nom
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ა მ	NOUN;Number=Sing;Case=Erg
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ა თ ა	NOUN;Number=Plur;Case=Gen
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ა ს	NOUN;Number=Sing;Case=Dat
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ი ს	NOUN;Number=Sing;Case=Gen
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ი თ	NOUN;Number=Sing;Case=Ins
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ო ლ ი დ ა რ ო ბ ა	NOUN;Number=Sing;Case=Nom	ს ო ლ ი დ ა რ ო ბ ა ნ ო	NOUN;Number=Plur;Case=Voc
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ნ ი	NOUN;Number=Plur;Case=Nom
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო მ	NOUN;Number=Sing;Case=Erg
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო თ ა	NOUN;Number=Plur;Case=Gen
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ს	NOUN;Number=Sing;Case=Gen
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო თ ი	NOUN;Number=Sing;Case=Ins
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო დ	NOUN;Number=Sing;VerbForm=Short
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს ო მ ბ რ ე რ ო	NOUN;Number=Sing;Case=Nom	ს ო მ ბ რ ე რ ო ნ ო	NOUN;Number=Plur;Case=Voc
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ნ ი	NOUN;Number=Plur;Case=Nom
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ მ ა	NOUN;Number=Sing;Case=Erg
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ თ ა	NOUN;Number=Plur;Case=Gen
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ს	NOUN;Number=Sing;Case=Dat
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ი ს	NOUN;Number=Sing;Case=Gen
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ი თ	NOUN;Number=Sing;Case=Ins
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ა დ	NOUN;Number=Sing;VerbForm=Short
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ო	NOUN;Number=Sing;Case=Voc
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ს პ ი დ ო მ ე ტ რ ი	NOUN;Number=Sing;Case=Nom	ს პ ი დ ო მ ე ტ რ ნ ო	NOUN;Number=Plur;Case=Voc
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ე ბ ი	NOUN;Number=Plur;Case=Nom
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ნ ი	NOUN;Number=Plur;Case=Nom
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო მ	NOUN;Number=Sing;Case=Erg
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო თ ა	NOUN;Number=Plur;Case=Gen
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ს	NOUN;Number=Sing;Case=Gen
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ე ბ ს	NOUN;Number=Plur;Case=Dat
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო თ ი	NOUN;Number=Sing;Case=Ins
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო დ	NOUN;Number=Sing;VerbForm=Short
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ე ბ ო	NOUN;Number=Plur;Case=Voc
+ტ ა ბ ლ ო	NOUN;Number=Sing;Case=Nom	ტ ა ბ ლ ო ნ ო	NOUN;Number=Plur;Case=Voc
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ე ბ ი	NOUN;Number=Plur;Case=Nom
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ა ნ ი	NOUN;Number=Plur;Case=Nom
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ა მ	NOUN;Number=Sing;Case=Erg
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ა თ ა	NOUN;Number=Plur;Case=Gen
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ა ს	NOUN;Number=Sing;Case=Dat
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ე ბ ს	NOUN;Number=Plur;Case=Dat
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ი ს	NOUN;Number=Sing;Case=Gen
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ი თ	NOUN;Number=Sing;Case=Ins
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ა დ	NOUN;Number=Sing;VerbForm=Short
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ე ბ ო	NOUN;Number=Plur;Case=Voc
+ტ ე რ ა ს ა	NOUN;Number=Sing;Case=Nom	ტ ე რ ა ს ა ნ ო	NOUN;Number=Plur;Case=Voc
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ნ ი	NOUN;Number=Plur;Case=Nom
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ მ ა	NOUN;Number=Sing;Case=Erg
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ თ ა	NOUN;Number=Plur;Case=Gen
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ს	NOUN;Number=Sing;Case=Dat
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ი ს	NOUN;Number=Sing;Case=Gen
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ი თ	NOUN;Number=Sing;Case=Ins
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ო	NOUN;Number=Sing;Case=Voc
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ტ ე რ ო რ ი ს ტ ი	NOUN;Number=Sing;Case=Nom	ტ ე რ ო რ ი ს ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ნ ი	NOUN;Number=Plur;Case=Nom
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ მ ა	NOUN;Number=Sing;Case=Erg
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ თ ა	NOUN;Number=Plur;Case=Gen
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ს	NOUN;Number=Sing;Case=Dat
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ი ს	NOUN;Number=Sing;Case=Gen
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ი თ	NOUN;Number=Sing;Case=Ins
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ო	NOUN;Number=Sing;Case=Voc
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ტ რ ა ნ ს პ ო რ ტ ი	NOUN;Number=Sing;Case=Nom	ტ რ ა ნ ს პ ო რ ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ნ ი	NOUN;Number=Plur;Case=Nom
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ მ ა	NOUN;Number=Sing;Case=Erg
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ თ ა	NOUN;Number=Plur;Case=Gen
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ს	NOUN;Number=Sing;Case=Dat
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ი ს	NOUN;Number=Sing;Case=Gen
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ი თ	NOUN;Number=Sing;Case=Ins
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ა დ	NOUN;Number=Sing;VerbForm=Short
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ო	NOUN;Number=Sing;Case=Voc
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ტ ყ ა პ ა ნ ი	NOUN;Number=Sing;Case=Nom	ტ ყ ა პ ა ნ ნ ო	NOUN;Number=Plur;Case=Voc
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ა ნ ი	NOUN;Number=Plur;Case=Nom
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ა მ	NOUN;Number=Sing;Case=Erg
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ა თ ა	NOUN;Number=Plur;Case=Gen
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ა ს	NOUN;Number=Sing;Case=Dat
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ი ს	NOUN;Number=Sing;Case=Gen
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ი თ	NOUN;Number=Sing;Case=Ins
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+უ ბ ე დ უ რ ე ბ ა	NOUN;Number=Sing;Case=Nom	უ ბ ე დ უ რ ე ბ ა ნ ო	NOUN;Number=Plur;Case=Voc
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ა ნ ი	NOUN;Number=Plur;Case=Nom
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ა მ	NOUN;Number=Sing;Case=Erg
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ა თ ა	NOUN;Number=Plur;Case=Gen
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ა ს	NOUN;Number=Sing;Case=Dat
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ი ს	NOUN;Number=Sing;Case=Gen
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ი თ	NOUN;Number=Sing;Case=Ins
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+უ ხ ე შ ო ბ ა	NOUN;Number=Sing;Case=Nom	უ ხ ე შ ო ბ ა ნ ო	NOUN;Number=Plur;Case=Voc
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ნ ი	NOUN;Number=Plur;Case=Nom
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ მ ა	NOUN;Number=Sing;Case=Erg
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ თ ა	NOUN;Number=Plur;Case=Gen
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ს	NOUN;Number=Sing;Case=Dat
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ი ს	NOUN;Number=Sing;Case=Gen
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ი თ	NOUN;Number=Sing;Case=Ins
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ო	NOUN;Number=Sing;Case=Voc
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ყ ვ ი რ ი ლ ი	NOUN;Number=Sing;Case=Nom	ყ ვ ი რ ი ლ ნ ო	NOUN;Number=Plur;Case=Voc
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ა ნ ი	NOUN;Number=Plur;Case=Nom
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ა მ	NOUN;Number=Sing;Case=Erg
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ა თ ა	NOUN;Number=Plur;Case=Gen
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ა ს	NOUN;Number=Sing;Case=Dat
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ი ს	NOUN;Number=Sing;Case=Gen
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ი თ	NOUN;Number=Sing;Case=Ins
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+შ ე უ ს ა ბ ა მ ო ბ ა	NOUN;Number=Sing;Case=Nom	შ ე უ ს ა ბ ა მ ო ბ ა ნ ო	NOUN;Number=Plur;Case=Voc
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ე ბ ი	NOUN;Number=Plur;Case=Nom
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ა ნ ი	NOUN;Number=Plur;Case=Nom
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ა მ	NOUN;Number=Sing;Case=Erg
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ა თ ა	NOUN;Number=Plur;Case=Gen
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ა ს	NOUN;Number=Sing;Case=Dat
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ე ბ ს	NOUN;Number=Plur;Case=Dat
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ი ს	NOUN;Number=Sing;Case=Gen
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ი თ	NOUN;Number=Sing;Case=Ins
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ა დ	NOUN;Number=Sing;VerbForm=Short
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ე ბ ო	NOUN;Number=Plur;Case=Voc
+წ ა რ დ გ ე ნ ა	NOUN;Number=Sing;Case=Nom	წ ა რ დ გ ე ნ ა ნ ო	NOUN;Number=Plur;Case=Voc
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ა ნ ი	NOUN;Number=Plur;Case=Nom
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ა მ	NOUN;Number=Sing;Case=Erg
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ა თ ა	NOUN;Number=Plur;Case=Gen
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ა ს	NOUN;Number=Sing;Case=Dat
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ი ს	NOUN;Number=Sing;Case=Gen
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ი თ	NOUN;Number=Sing;Case=Ins
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ა დ	NOUN;Number=Sing;VerbForm=Short
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ჭ ა რ ბ წ ა რ მ ო ე ბ ა	NOUN;Number=Sing;Case=Nom	ჭ ა რ ბ წ ა რ მ ო ე ბ ა ნ ო	NOUN;Number=Plur;Case=Voc
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ნ ი	NOUN;Number=Plur;Case=Nom
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ მ ა	NOUN;Number=Sing;Case=Erg
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ თ ა	NOUN;Number=Plur;Case=Gen
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ს	NOUN;Number=Sing;Case=Dat
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ი ს	NOUN;Number=Sing;Case=Gen
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ი თ	NOUN;Number=Sing;Case=Ins
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ო	NOUN;Number=Sing;Case=Voc
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ხ ო რ ბ ლ ე უ ლ ი	NOUN;Number=Sing;Case=Nom	ხ ო რ ბ ლ ე უ ლ ნ ო	NOUN;Number=Plur;Case=Voc
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ნ ი	NOUN;Number=Plur;Case=Nom
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ მ ა	NOUN;Number=Sing;Case=Erg
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ თ ა	NOUN;Number=Plur;Case=Gen
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ს	NOUN;Number=Sing;Case=Dat
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ი ს	NOUN;Number=Sing;Case=Gen
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ი თ	NOUN;Number=Sing;Case=Ins
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ა დ	NOUN;Number=Sing;VerbForm=Short
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ო	NOUN;Number=Sing;Case=Voc
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ჰ ო რ ი ზ ო ნ ტ ი	NOUN;Number=Sing;Case=Nom	ჰ ო რ ი ზ ო ნ ტ ნ ო	NOUN;Number=Plur;Case=Voc
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ნ ი	NOUN;Number=Plur;Case=Nom
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ მ ა	NOUN;Number=Sing;Case=Erg
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ თ ა	NOUN;Number=Plur;Case=Gen
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ს	NOUN;Number=Sing;Case=Dat
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ი ს	NOUN;Number=Sing;Case=Gen
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ი თ	NOUN;Number=Sing;Case=Ins
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ო	NOUN;Number=Sing;Case=Voc
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა მ ტ ა ნ ი	NOUN;Number=Sing;Case=Nom	ა მ ტ ა ნ ნ ო	NOUN;Number=Plur;Case=Voc
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ნ ი	NOUN;Number=Plur;Case=Nom
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ მ ა	NOUN;Number=Sing;Case=Erg
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ თ ა	NOUN;Number=Plur;Case=Gen
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ს	NOUN;Number=Sing;Case=Dat
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ი ს	NOUN;Number=Sing;Case=Gen
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ი თ	NOUN;Number=Sing;Case=Ins
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ა დ	NOUN;Number=Sing;VerbForm=Short
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ო	NOUN;Number=Sing;Case=Voc
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ხ ა ბ ა ზ ი	NOUN;Number=Sing;Case=Nom	ხ ა ბ ა ზ ნ ო	NOUN;Number=Plur;Case=Voc
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ე ბ ი	NOUN;Number=Plur;Case=Nom
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ნ ი	NOUN;Number=Plur;Case=Nom
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს მ ა	NOUN;Number=Sing;Case=Erg
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს თ ა	NOUN;Number=Plur;Case=Gen
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ს	NOUN;Number=Sing;Case=Dat
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ე ბ ს	NOUN;Number=Plur;Case=Dat
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ი ს	NOUN;Number=Sing;Case=Gen
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ი თ	NOUN;Number=Sing;Case=Ins
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ა დ	NOUN;Number=Sing;VerbForm=Short
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ო	NOUN;Number=Sing;Case=Voc
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ე ბ ო	NOUN;Number=Plur;Case=Voc
+ვ ა ი - კ რ ი ტ ი კ ო ს ი	NOUN;Number=Sing;Case=Nom	ვ ა ი კ რ ი ტ ი კ ო ს ნ ო	NOUN;Number=Plur;Case=Voc
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ნ ი	NOUN;Number=Plur;Case=Nom
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ მ ა	NOUN;Number=Sing;Case=Erg
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ თ ა	NOUN;Number=Plur;Case=Gen
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ს	NOUN;Number=Sing;Case=Dat
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ი ს	NOUN;Number=Sing;Case=Gen
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ი თ	NOUN;Number=Sing;Case=Ins
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ა დ	NOUN;Number=Sing;VerbForm=Short
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ო	NOUN;Number=Sing;Case=Voc
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ზ ა მ ბ ა კ ი	NOUN;Number=Sing;Case=Nom	ზ ა მ ბ ა კ ნ ო	NOUN;Number=Plur;Case=Voc
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ე ბ ი	NOUN;Number=Plur;Case=Nom
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ნ ი	NOUN;Number=Plur;Case=Nom
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ მ ა	NOUN;Number=Sing;Case=Erg
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ თ ა	NOUN;Number=Plur;Case=Gen
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ს	NOUN;Number=Sing;Case=Dat
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ე ბ ს	NOUN;Number=Plur;Case=Dat
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ი ს	NOUN;Number=Sing;Case=Gen
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ი თ	NOUN;Number=Sing;Case=Ins
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ა დ	NOUN;Number=Sing;VerbForm=Short
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ო	NOUN;Number=Sing;Case=Voc
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ე ბ ო	NOUN;Number=Plur;Case=Voc
+ა ლ კ ო ჰ ო ლ ი	NOUN;Number=Sing;Case=Nom	ა ლ კ ო ჰ ო ლ ნ ო	NOUN;Number=Plur;Case=Voc
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ე ბ ი	NOUN;Number=Plur;Case=Nom
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ა ნ ი	NOUN;Number=Plur;Case=Nom
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ა მ	NOUN;Number=Sing;Case=Erg
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ე ბ მ ა	NOUN;Number=Plur;Case=Erg
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ა თ ა	NOUN;Number=Plur;Case=Gen
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ა ს	NOUN;Number=Sing;Case=Dat
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ე ბ ს	NOUN;Number=Plur;Case=Dat
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ი ს	NOUN;Number=Sing;Case=Gen
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ე ბ ი ს	NOUN;Number=Plur;Case=Gen
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ი თ	NOUN;Number=Sing;Case=Ins
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ე ბ ი თ	NOUN;Number=Plur;Case=Ins
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ა დ	NOUN;Number=Sing;VerbForm=Short
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ე ბ ა დ	NOUN;Number=Plur;VerbForm=Short
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ე ბ ო	NOUN;Number=Plur;Case=Voc
+გ ა ნ ხ ი ლ ვ ა	NOUN;Number=Sing;Case=Nom	გ ა ნ ხ ი ლ ვ ა ნ ო	NOUN;Number=Plur;Case=Voc
