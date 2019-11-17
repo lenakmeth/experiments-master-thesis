@@ -11,9 +11,6 @@ def parse_args():
 
     # Find if CUDA is used
     parser.add_argument("--USE_CUDA", default=False, type=bool, help="Use CUDA?")
-    # Train
-    parser.add_argument("--training", default=True, type=bool, help="Train or not?")
-
     # Data parameters
     parser.add_argument("--PAD_TOKEN", default=0, type=int, help="PAD token")
     parser.add_argument(
@@ -55,6 +52,7 @@ def parse_args():
 
     # Configure training/optimization
 
+    parser.add_argument("--path", default="", type=str, help="set path")
     parser.add_argument("--lang", default="", type=str, help="Language.")
     parser.add_argument(
         "--n_epochs",

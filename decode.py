@@ -18,7 +18,7 @@ from configure import parse_args
 from dataset import Dataset
 from utils import my_collate_fn
 
-from Levenshtein import ratio
+# from Levenshtein import ratio
 
 import matplotlib.pyplot as plt
 
@@ -182,7 +182,7 @@ def evaluate(decoded_words, lang):
     wrong_preds = []
     right = 0
     wrong = 0
-    lev_percentage = 0
+    # lev_percentage = 0
     for word_set in decoded_words:
 
         expected = word_set[1].replace(" ", "").replace("</w>", "")
@@ -190,32 +190,32 @@ def evaluate(decoded_words, lang):
         predicted = word_set[2].replace(" ", "").replace("</w>", "")
         predicted = predicted.replace("s_", "").replace("p_", "")
         #        print(expected, predicted)
-        similarity = ratio(expected, predicted)
+        # similarity = ratio(expected, predicted)
 
-        if similarity == 1.0:
-            right += 1
+        # if similarity == 1.0:
+        #     right += 1
 
-        else:
-            wrong += 1
-            #            print('word_set: ',expected, predicted)
-            wrong_preds.append((expected, predicted))
+        # else:
+        #     wrong += 1
+        #     #            print('word_set: ',expected, predicted)
+        #     wrong_preds.append((expected, predicted))
 
-        lev_percentage += similarity
+        # lev_percentage += similarity
 
     stats = {}
     stats["total num"] = len(decoded_words)
     stats["no or rights"] = right
     stats["no of wrongs"] = wrong
     stats["acc"] = right / len(decoded_words)
-    stats["lev"] = lev_percentage / len(decoded_words)
+    # stats["lev"] = lev_percentage / len(decoded_words)
 
     print("total num:\t", len(decoded_words))
     print("no or rights:\t", str(right))
     print("no of wrongs:\t", str(wrong))
     print("acc:\t", str(right / len(decoded_words)))
-    print("lev:\t", str(lev_percentage / len(decoded_words)))
+    # print("lev:\t", str(lev_percentage / len(decoded_words)))
 
-    filename = os.getcwd() + "/results/{}-{}.txt".format(
+    filename = args.path + "/results/{}-{}.txt".format(
         lang, time.strftime("%d%m%y-%H%M%S")
     )
     with open(filename, "w", encoding="utf-8") as f:
@@ -223,7 +223,7 @@ def evaluate(decoded_words, lang):
         f.write("no or rights:\t" + str(right) + '\n')
         f.write("no of wrongs:\t" + str(wrong) + '\n')
         f.write("acc:\t" + str(right / len(decoded_words)) + '\n')
-        f.write("lev:\t" + str(lev_percentage / len(decoded_words)) + '\n')
+        # f.write("lev:\t" + str(lev_percentage / len(decoded_words)) + '\n')
 
     return wrong_preds
 

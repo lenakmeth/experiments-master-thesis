@@ -35,11 +35,11 @@ wrong_preds = {}
 wrong_preds_unseen = {}
 
 
-if not os.path.exists("checkpoints/" + lang):
-    os.mkdir("checkpoints/" + lang)
+if not os.path.exists(args.path + "checkpoints/" + lang):
+    os.mkdir(args.path + "checkpoints/" + lang)
 
 # Initialize dataset
-dataset = Dataset("data/" + lang + "/" + lang + "_train.txt", train=True)  # toy?
+dataset = Dataset(args.path + "data/" + lang + "/" + lang + "_train.txt", train=True)  # toy?
 
 
 # Initialize models
@@ -70,132 +70,57 @@ if args.USE_CUDA:
     encoder.cuda()
     decoder.cuda()
 
-# train(dataset,
-#        args.batch_size,
-#        args.n_epochs,
-#        encoder,
-#        decoder,
-#        encoder_optimizer,
-#        decoder_optimizer,
-#        criterion,
-#        args.checkpoint_dir,
-#        lang)
+train(dataset,
+       args.batch_size,
+       args.n_epochs,
+       encoder,
+       decoder,
+       encoder_optimizer,
+       decoder_optimizer,
+       criterion,
+       args.checkpoint_dir,
+       lang)
 
 # evaluate
 
 # find the last encoder state
 encoder_last_state = sorted(
-    [x for x in os.listdir("checkpoints/" + lang) if x.startswith("enc")]
+    [x for x in os.listdir(args.path + "checkpoints/" + lang) if x.startswith("enc")]
 )[-1]
 print(encoder_last_state)
 
 # find the last decoder state
 decoder_last_state = sorted(
-    [x for x in os.listdir("checkpoints/" + lang) if x.startswith("dec")]
+    [x for x in os.listdir(args.path + "checkpoints/" + lang) if x.startswith("dec")]
 )[-1]
 print(decoder_last_state)
 
-encoder.load_state_dict(torch.load("checkpoints/" + lang + "/" + encoder_last_state))
-decoder.load_state_dict(torch.load("checkpoints/" + lang + "/" + decoder_last_state))
+encoder.load_state_dict(torch.load(args.path + "checkpoints/" + lang + "/" + encoder_last_state))
+decoder.load_state_dict(torch.load(args.path + "checkpoints/" + lang + "/" + decoder_last_state))
 
 
 # predict for test
 
 # predict for unseen
-figs_path = "figs/" + lang + "/test"
+figs_path = args.path + "figs/" + lang + "/test"
 if not os.path.exists(figs_path):
     os.makedirs(figs_path)
 
 decoded_words_test = decode_dataset(
-    "data/" + lang + "/" + lang + "_test.txt", encoder, decoder, dataset, figs_path
+   args.path +  "data/" + lang + "/" + lang + "_test.txt", encoder, decoder, dataset, figs_path
 )
 print("test results")
 
 wrong_preds = evaluate(decoded_words_test, lang)
 
 # predict for unseen
-figs_path = "figs/" + lang + "/unseen"
+figs_path = args.path + "figs/" + lang + "/unseen"
 if not os.path.exists(figs_path):
     os.makedirs(figs_path)
 
 decoded_words_unseen = decode_dataset(
-    "data/" + lang + "/" + lang + "_unseen.txt", encoder, decoder, dataset, figs_path
+   args.path +  "data/" + lang + "/" + lang + "_unseen.txt", encoder, decoder, dataset, figs_path
 )
 print("unseen results")
 
 wrong_preds_unseen = evaluate(decoded_words_unseen, lang)
-
-# VERY FANCY DECODE
-
-# full_stats = {}
-# for num in range(19,args.n_epochs):
-#
-#    enc_state = sorted([x for x in os.listdir('checkpoints/' + lang)
-#                             if x.startswith('enc')])[num-1]
-#    dec_state = sorted([x for x in os.listdir('checkpoints/' + lang)
-#                             if x.startswith('dec')])[num-1]
-#
-#    encoder.load_state_dict(torch.load('checkpoints/' + lang + '/' + enc_state))
-#    decoder.load_state_dict(torch.load('checkpoints/' + lang + '/' + dec_state))
-#
-#
-#    #figs_path = 'figs/' + lang + '/test'
-#    #if not os.path.exists(figs_path):
-#    #    os.makedirs(figs_path)
-#
-#    decoded_words[lang] = decode_dataset("data/" + lang + '/' + lang + "_test.txt",
-#                                     encoder, decoder, dataset, figs_path=None)
-#    print('test results')
-#    try:
-#        full_stats[num] = evaluate(decoded_words[lang])
-#    except Exception:
-#        pass
-#
-# max_acc = 0
-# max_lev = 0
-# for epoch,stats in full_stats.items():
-#    try:
-#        if stats['acc'] > max_acc:
-#            max_acc = stats['acc']
-#            print('max_acc', epoch, stats)
-#        if stats['lev'] > max_lev:
-#            max_lev = stats['lev']
-#            print('max_lev', epoch, stats)
-#    except KeyError:
-#        pass
-
-# full_unseen = {}
-# for num in range(20):
-#    print()
-#    print(num)
-#    enc_state = sorted([x for x in os.listdir('checkpoints/' + lang)
-#                             if x.startswith('enc')])[num-1]
-#    dec_state = sorted([x for x in os.listdir('checkpoints/' + lang)
-#                             if x.startswith('dec')])[num-1]
-#    print(enc_state)
-#    print(dec_state)
-#    encoder.load_state_dict(torch.load('checkpoints/' + lang + '/' + enc_state))
-#    decoder.load_state_dict(torch.load('checkpoints/' + lang + '/' + dec_state))
-#
-#
-#    #figs_path = 'figs/' + lang + '/test'
-#    #if not os.path.exists(figs_path):
-#    #    os.makedirs(figs_path)
-#
-#    decoded_words[lang] = decode_dataset("data/" + lang + '/' + lang + "_unseen.txt",
-#                                     encoder, decoder, dataset, figs_path=None)
-#    print('unseen results')
-#    full_unseen[num] = evaluate(decoded_words[lang])
-#
-# max_acc_u = 0
-# max_lev_u = 0
-# for epoch,stats in full_unseen.items():
-#    try:
-#        if stats['acc'] > max_acc:
-#            max_acc = stats['acc']
-#            print('max_acc', epoch, stats)
-#        if stats['lev'] > max_lev:
-#            max_lev = stats['lev']
-#            print('max_lev', epoch, stats)
-#    except KeyError:
-#        pass
