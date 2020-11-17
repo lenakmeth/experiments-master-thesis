@@ -1,0 +1,804 @@
+∅_P d i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d i a k_S	NOUN;Case=Nom;Number=Plur
+∅_P d i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d i a t_S	NOUN;Case=Acc;Number=Sing
+∅_P d i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d i a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P d i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d i a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P d i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d i a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P d i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d i a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P d i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d i a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P d i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d i a n_S	NOUN;Case=Sup;Number=Sing
+∅_P p o n t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o n t k_S	NOUN;Case=Nom;Number=Plur
+∅_P p o n t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o n t t_S	NOUN;Case=Acc;Number=Sing
+∅_P p o n t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o n t ért_S	NOUN;Case=Cau;Number=Sing
+∅_P p o n t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o n t kért_S	NOUN;Case=Cau;Number=Plur
+∅_P p o n t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o n t ig_S	NOUN;Case=Ter;Number=Sing
+∅_P p o n t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o n t kig_S	NOUN;Case=Ter;Number=Plur
+∅_P p o n t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o n t kként_S	NOUN;Case=Ess;Number=Plur
+∅_P p o n t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o n t n_S	NOUN;Case=Sup;Number=Sing
+∅_P t i s z t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t i s z t a k_S	NOUN;Case=Nom;Number=Plur
+∅_P t i s z t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t i s z t a t_S	NOUN;Case=Acc;Number=Sing
+∅_P t i s z t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t i s z t a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P t i s z t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t i s z t a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P t i s z t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t i s z t a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P t i s z t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t i s z t a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P t i s z t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t i s z t a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P t i s z t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t i s z t a n_S	NOUN;Case=Sup;Number=Sing
+∅_P b a r l a n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b a r l a n g k_S	NOUN;Case=Nom;Number=Plur
+∅_P b a r l a n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b a r l a n g t_S	NOUN;Case=Acc;Number=Sing
+∅_P b a r l a n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b a r l a n g ért_S	NOUN;Case=Cau;Number=Sing
+∅_P b a r l a n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b a r l a n g kért_S	NOUN;Case=Cau;Number=Plur
+∅_P b a r l a n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b a r l a n g ig_S	NOUN;Case=Ter;Number=Sing
+∅_P b a r l a n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b a r l a n g kig_S	NOUN;Case=Ter;Number=Plur
+∅_P b a r l a n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b a r l a n g kként_S	NOUN;Case=Ess;Number=Plur
+∅_P b a r l a n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b a r l a n g n_S	NOUN;Case=Sup;Number=Sing
+∅_P h í d ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h í d k_S	NOUN;Case=Nom;Number=Plur
+∅_P h í d ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h í d t_S	NOUN;Case=Acc;Number=Sing
+∅_P h í d ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h í d ért_S	NOUN;Case=Cau;Number=Sing
+∅_P h í d ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h í d kért_S	NOUN;Case=Cau;Number=Plur
+∅_P h í d ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h í d ig_S	NOUN;Case=Ter;Number=Sing
+∅_P h í d ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h í d kig_S	NOUN;Case=Ter;Number=Plur
+∅_P h í d ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h í d kként_S	NOUN;Case=Ess;Number=Plur
+∅_P h í d ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h í d n_S	NOUN;Case=Sup;Number=Sing
+∅_P p i s z t r á n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s z t r á n g k_S	NOUN;Case=Nom;Number=Plur
+∅_P p i s z t r á n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s z t r á n g t_S	NOUN;Case=Acc;Number=Sing
+∅_P p i s z t r á n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s z t r á n g ért_S	NOUN;Case=Cau;Number=Sing
+∅_P p i s z t r á n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s z t r á n g kért_S	NOUN;Case=Cau;Number=Plur
+∅_P p i s z t r á n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s z t r á n g ig_S	NOUN;Case=Ter;Number=Sing
+∅_P p i s z t r á n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s z t r á n g kig_S	NOUN;Case=Ter;Number=Plur
+∅_P p i s z t r á n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s z t r á n g kként_S	NOUN;Case=Ess;Number=Plur
+∅_P p i s z t r á n g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s z t r á n g n_S	NOUN;Case=Sup;Number=Sing
+∅_P v á l i k ∅_S	VERB;VerbForm=Inf	∅_P v á l ott_S	VERB;Tense=Past
+∅_P v á l i k ∅_S	VERB;VerbForm=Inf	∅_P v á l ó_S	VERB;Tense=Pres
+∅_P v á l i k ∅_S	VERB;VerbForm=Inf	∅_P v á l va_S	
+∅_P v á l i k ∅_S	VERB;VerbForm=Inf	∅_P v á l unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P v á l i k ∅_S	VERB;VerbForm=Inf	∅_P v á l jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P v á l i k ∅_S	VERB;VerbForm=Inf	∅_P v á l jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P v á l i k ∅_S	VERB;VerbForm=Inf	∅_P v á l junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P v á l i k ∅_S	VERB;VerbForm=Inf	∅_P v á l jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P v á l i k ∅_S	VERB;VerbForm=Inf	∅_P v á l janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P f a j a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f a j a k_S	NOUN;Case=Nom;Number=Plur
+∅_P f a j a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f a j a t_S	NOUN;Case=Acc;Number=Sing
+∅_P f a j a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f a j a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P f a j a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f a j a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P f a j a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f a j a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P f a j a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f a j a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P f a j a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f a j a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P f a j a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f a j a n_S	NOUN;Case=Sup;Number=Sing
+∅_P p i s i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s i k_S	NOUN;Case=Nom;Number=Plur
+∅_P p i s i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s i t_S	NOUN;Case=Acc;Number=Sing
+∅_P p i s i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s i ért_S	NOUN;Case=Cau;Number=Sing
+∅_P p i s i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s i kért_S	NOUN;Case=Cau;Number=Plur
+∅_P p i s i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s i ig_S	NOUN;Case=Ter;Number=Sing
+∅_P p i s i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s i kig_S	NOUN;Case=Ter;Number=Plur
+∅_P p i s i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s i kként_S	NOUN;Case=Ess;Number=Plur
+∅_P p i s i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p i s i n_S	NOUN;Case=Sup;Number=Sing
+∅_P p o s t a l á d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o s t a l á d a k_S	NOUN;Case=Nom;Number=Plur
+∅_P p o s t a l á d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o s t a l á d a t_S	NOUN;Case=Acc;Number=Sing
+∅_P p o s t a l á d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o s t a l á d a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P p o s t a l á d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o s t a l á d a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P p o s t a l á d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o s t a l á d a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P p o s t a l á d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o s t a l á d a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P p o s t a l á d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o s t a l á d a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P p o s t a l á d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p o s t a l á d a n_S	NOUN;Case=Sup;Number=Sing
+∅_P v é r r o k o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é r r o k o n k_S	NOUN;Case=Nom;Number=Plur
+∅_P v é r r o k o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é r r o k o n t_S	NOUN;Case=Acc;Number=Sing
+∅_P v é r r o k o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é r r o k o n ért_S	NOUN;Case=Cau;Number=Sing
+∅_P v é r r o k o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é r r o k o n kért_S	NOUN;Case=Cau;Number=Plur
+∅_P v é r r o k o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é r r o k o n ig_S	NOUN;Case=Ter;Number=Sing
+∅_P v é r r o k o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é r r o k o n kig_S	NOUN;Case=Ter;Number=Plur
+∅_P v é r r o k o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é r r o k o n kként_S	NOUN;Case=Ess;Number=Plur
+∅_P v é r r o k o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é r r o k o n n_S	NOUN;Case=Sup;Number=Sing
+∅_P f o l y é k o n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y é k o n y k_S	NOUN;Case=Nom;Number=Plur
+∅_P f o l y é k o n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y é k o n y t_S	NOUN;Case=Acc;Number=Sing
+∅_P f o l y é k o n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y é k o n y ért_S	NOUN;Case=Cau;Number=Sing
+∅_P f o l y é k o n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y é k o n y kért_S	NOUN;Case=Cau;Number=Plur
+∅_P f o l y é k o n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y é k o n y ig_S	NOUN;Case=Ter;Number=Sing
+∅_P f o l y é k o n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y é k o n y kig_S	NOUN;Case=Ter;Number=Plur
+∅_P f o l y é k o n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y é k o n y kként_S	NOUN;Case=Ess;Number=Plur
+∅_P f o l y é k o n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y é k o n y n_S	NOUN;Case=Sup;Number=Sing
+∅_P c e n t r i f u g a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c e n t r i f u g a k_S	NOUN;Case=Nom;Number=Plur
+∅_P c e n t r i f u g a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c e n t r i f u g a t_S	NOUN;Case=Acc;Number=Sing
+∅_P c e n t r i f u g a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c e n t r i f u g a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P c e n t r i f u g a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c e n t r i f u g a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P c e n t r i f u g a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c e n t r i f u g a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P c e n t r i f u g a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c e n t r i f u g a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P c e n t r i f u g a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c e n t r i f u g a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P c e n t r i f u g a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c e n t r i f u g a n_S	NOUN;Case=Sup;Number=Sing
+∅_P f ü s t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ü s t k_S	NOUN;Case=Nom;Number=Plur
+∅_P f ü s t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ü s t t_S	NOUN;Case=Acc;Number=Sing
+∅_P f ü s t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ü s t ért_S	NOUN;Case=Cau;Number=Sing
+∅_P f ü s t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ü s t kért_S	NOUN;Case=Cau;Number=Plur
+∅_P f ü s t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ü s t ig_S	NOUN;Case=Ter;Number=Sing
+∅_P f ü s t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ü s t kig_S	NOUN;Case=Ter;Number=Plur
+∅_P f ü s t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ü s t kként_S	NOUN;Case=Ess;Number=Plur
+∅_P f ü s t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ü s t n_S	NOUN;Case=Sup;Number=Sing
+∅_P v e k t o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v e k t o r k_S	NOUN;Case=Nom;Number=Plur
+∅_P v e k t o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v e k t o r t_S	NOUN;Case=Acc;Number=Sing
+∅_P v e k t o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v e k t o r ért_S	NOUN;Case=Cau;Number=Sing
+∅_P v e k t o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v e k t o r kért_S	NOUN;Case=Cau;Number=Plur
+∅_P v e k t o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v e k t o r ig_S	NOUN;Case=Ter;Number=Sing
+∅_P v e k t o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v e k t o r kig_S	NOUN;Case=Ter;Number=Plur
+∅_P v e k t o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v e k t o r kként_S	NOUN;Case=Ess;Number=Plur
+∅_P v e k t o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v e k t o r n_S	NOUN;Case=Sup;Number=Sing
+∅_P e s e t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e s e t k_S	NOUN;Case=Nom;Number=Plur
+∅_P e s e t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e s e t t_S	NOUN;Case=Acc;Number=Sing
+∅_P e s e t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e s e t ért_S	NOUN;Case=Cau;Number=Sing
+∅_P e s e t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e s e t kért_S	NOUN;Case=Cau;Number=Plur
+∅_P e s e t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e s e t ig_S	NOUN;Case=Ter;Number=Sing
+∅_P e s e t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e s e t kig_S	NOUN;Case=Ter;Number=Plur
+∅_P e s e t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e s e t kként_S	NOUN;Case=Ess;Number=Plur
+∅_P e s e t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e s e t n_S	NOUN;Case=Sup;Number=Sing
+∅_P l e g n a g y s z e r ű b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g n a g y s z e r ű b b k_S	NOUN;Case=Nom;Number=Plur
+∅_P l e g n a g y s z e r ű b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g n a g y s z e r ű b b t_S	NOUN;Case=Acc;Number=Sing
+∅_P l e g n a g y s z e r ű b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g n a g y s z e r ű b b ért_S	NOUN;Case=Cau;Number=Sing
+∅_P l e g n a g y s z e r ű b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g n a g y s z e r ű b b kért_S	NOUN;Case=Cau;Number=Plur
+∅_P l e g n a g y s z e r ű b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g n a g y s z e r ű b b ig_S	NOUN;Case=Ter;Number=Sing
+∅_P l e g n a g y s z e r ű b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g n a g y s z e r ű b b kig_S	NOUN;Case=Ter;Number=Plur
+∅_P l e g n a g y s z e r ű b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g n a g y s z e r ű b b kként_S	NOUN;Case=Ess;Number=Plur
+∅_P l e g n a g y s z e r ű b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g n a g y s z e r ű b b n_S	NOUN;Case=Sup;Number=Sing
+∅_P s a k á l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s a k á l k_S	NOUN;Case=Nom;Number=Plur
+∅_P s a k á l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s a k á l t_S	NOUN;Case=Acc;Number=Sing
+∅_P s a k á l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s a k á l ért_S	NOUN;Case=Cau;Number=Sing
+∅_P s a k á l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s a k á l kért_S	NOUN;Case=Cau;Number=Plur
+∅_P s a k á l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s a k á l ig_S	NOUN;Case=Ter;Number=Sing
+∅_P s a k á l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s a k á l kig_S	NOUN;Case=Ter;Number=Plur
+∅_P s a k á l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s a k á l kként_S	NOUN;Case=Ess;Number=Plur
+∅_P s a k á l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s a k á l n_S	NOUN;Case=Sup;Number=Sing
+∅_P k o n z u l á t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n z u l á t u s k_S	NOUN;Case=Nom;Number=Plur
+∅_P k o n z u l á t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n z u l á t u s t_S	NOUN;Case=Acc;Number=Sing
+∅_P k o n z u l á t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n z u l á t u s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P k o n z u l á t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n z u l á t u s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P k o n z u l á t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n z u l á t u s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P k o n z u l á t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n z u l á t u s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P k o n z u l á t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n z u l á t u s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P k o n z u l á t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n z u l á t u s n_S	NOUN;Case=Sup;Number=Sing
+∅_P b é l y e g g y ű j t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é l y e g g y ű j t ő k_S	NOUN;Case=Nom;Number=Plur
+∅_P b é l y e g g y ű j t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é l y e g g y ű j t ő t_S	NOUN;Case=Acc;Number=Sing
+∅_P b é l y e g g y ű j t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é l y e g g y ű j t ő ért_S	NOUN;Case=Cau;Number=Sing
+∅_P b é l y e g g y ű j t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é l y e g g y ű j t ő kért_S	NOUN;Case=Cau;Number=Plur
+∅_P b é l y e g g y ű j t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é l y e g g y ű j t ő ig_S	NOUN;Case=Ter;Number=Sing
+∅_P b é l y e g g y ű j t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é l y e g g y ű j t ő kig_S	NOUN;Case=Ter;Number=Plur
+∅_P b é l y e g g y ű j t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é l y e g g y ű j t ő kként_S	NOUN;Case=Ess;Number=Plur
+∅_P b é l y e g g y ű j t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é l y e g g y ű j t ő n_S	NOUN;Case=Sup;Number=Sing
+∅_P n y o l c v a n n y o l c ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n y o l c v a n n y o l c k_S	NOUN;Case=Nom;Number=Plur
+∅_P n y o l c v a n n y o l c ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n y o l c v a n n y o l c t_S	NOUN;Case=Acc;Number=Sing
+∅_P n y o l c v a n n y o l c ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n y o l c v a n n y o l c ért_S	NOUN;Case=Cau;Number=Sing
+∅_P n y o l c v a n n y o l c ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n y o l c v a n n y o l c kért_S	NOUN;Case=Cau;Number=Plur
+∅_P n y o l c v a n n y o l c ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n y o l c v a n n y o l c ig_S	NOUN;Case=Ter;Number=Sing
+∅_P n y o l c v a n n y o l c ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n y o l c v a n n y o l c kig_S	NOUN;Case=Ter;Number=Plur
+∅_P n y o l c v a n n y o l c ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n y o l c v a n n y o l c kként_S	NOUN;Case=Ess;Number=Plur
+∅_P n y o l c v a n n y o l c ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n y o l c v a n n y o l c n_S	NOUN;Case=Sup;Number=Sing
+∅_P m e z ő g a z d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e z ő g a z d a k_S	NOUN;Case=Nom;Number=Plur
+∅_P m e z ő g a z d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e z ő g a z d a t_S	NOUN;Case=Acc;Number=Sing
+∅_P m e z ő g a z d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e z ő g a z d a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P m e z ő g a z d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e z ő g a z d a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P m e z ő g a z d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e z ő g a z d a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P m e z ő g a z d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e z ő g a z d a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P m e z ő g a z d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e z ő g a z d a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P m e z ő g a z d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e z ő g a z d a n_S	NOUN;Case=Sup;Number=Sing
+∅_P k a k a ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k a k a ó k_S	NOUN;Case=Nom;Number=Plur
+∅_P k a k a ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k a k a ó t_S	NOUN;Case=Acc;Number=Sing
+∅_P k a k a ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k a k a ó ért_S	NOUN;Case=Cau;Number=Sing
+∅_P k a k a ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k a k a ó kért_S	NOUN;Case=Cau;Number=Plur
+∅_P k a k a ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k a k a ó ig_S	NOUN;Case=Ter;Number=Sing
+∅_P k a k a ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k a k a ó kig_S	NOUN;Case=Ter;Number=Plur
+∅_P k a k a ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k a k a ó kként_S	NOUN;Case=Ess;Number=Plur
+∅_P k a k a ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k a k a ó n_S	NOUN;Case=Sup;Number=Sing
+∅_P p a d l ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a d l ó k_S	NOUN;Case=Nom;Number=Plur
+∅_P p a d l ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a d l ó t_S	NOUN;Case=Acc;Number=Sing
+∅_P p a d l ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a d l ó ért_S	NOUN;Case=Cau;Number=Sing
+∅_P p a d l ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a d l ó kért_S	NOUN;Case=Cau;Number=Plur
+∅_P p a d l ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a d l ó ig_S	NOUN;Case=Ter;Number=Sing
+∅_P p a d l ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a d l ó kig_S	NOUN;Case=Ter;Number=Plur
+∅_P p a d l ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a d l ó kként_S	NOUN;Case=Ess;Number=Plur
+∅_P p a d l ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a d l ó n_S	NOUN;Case=Sup;Number=Sing
+∅_P h i p e r b o l a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i p e r b o l a k_S	NOUN;Case=Nom;Number=Plur
+∅_P h i p e r b o l a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i p e r b o l a t_S	NOUN;Case=Acc;Number=Sing
+∅_P h i p e r b o l a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i p e r b o l a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P h i p e r b o l a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i p e r b o l a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P h i p e r b o l a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i p e r b o l a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P h i p e r b o l a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i p e r b o l a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P h i p e r b o l a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i p e r b o l a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P h i p e r b o l a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i p e r b o l a n_S	NOUN;Case=Sup;Number=Sing
+∅_P i n t i m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n t i m k_S	NOUN;Case=Nom;Number=Plur
+∅_P i n t i m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n t i m t_S	NOUN;Case=Acc;Number=Sing
+∅_P i n t i m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n t i m ért_S	NOUN;Case=Cau;Number=Sing
+∅_P i n t i m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n t i m kért_S	NOUN;Case=Cau;Number=Plur
+∅_P i n t i m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n t i m ig_S	NOUN;Case=Ter;Number=Sing
+∅_P i n t i m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n t i m kig_S	NOUN;Case=Ter;Number=Plur
+∅_P i n t i m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n t i m kként_S	NOUN;Case=Ess;Number=Plur
+∅_P i n t i m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n t i m n_S	NOUN;Case=Sup;Number=Sing
+∅_P p r é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p r é m k_S	NOUN;Case=Nom;Number=Plur
+∅_P p r é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p r é m t_S	NOUN;Case=Acc;Number=Sing
+∅_P p r é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p r é m ért_S	NOUN;Case=Cau;Number=Sing
+∅_P p r é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p r é m kért_S	NOUN;Case=Cau;Number=Plur
+∅_P p r é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p r é m ig_S	NOUN;Case=Ter;Number=Sing
+∅_P p r é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p r é m kig_S	NOUN;Case=Ter;Number=Plur
+∅_P p r é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p r é m kként_S	NOUN;Case=Ess;Number=Plur
+∅_P p r é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p r é m n_S	NOUN;Case=Sup;Number=Sing
+∅_P c s á v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s á v ó k_S	NOUN;Case=Nom;Number=Plur
+∅_P c s á v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s á v ó t_S	NOUN;Case=Acc;Number=Sing
+∅_P c s á v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s á v ó ért_S	NOUN;Case=Cau;Number=Sing
+∅_P c s á v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s á v ó kért_S	NOUN;Case=Cau;Number=Plur
+∅_P c s á v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s á v ó ig_S	NOUN;Case=Ter;Number=Sing
+∅_P c s á v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s á v ó kig_S	NOUN;Case=Ter;Number=Plur
+∅_P c s á v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s á v ó kként_S	NOUN;Case=Ess;Number=Plur
+∅_P c s á v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s á v ó n_S	NOUN;Case=Sup;Number=Sing
+∅_P k á b e l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k á b e l k_S	NOUN;Case=Nom;Number=Plur
+∅_P k á b e l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k á b e l t_S	NOUN;Case=Acc;Number=Sing
+∅_P k á b e l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k á b e l ért_S	NOUN;Case=Cau;Number=Sing
+∅_P k á b e l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k á b e l kért_S	NOUN;Case=Cau;Number=Plur
+∅_P k á b e l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k á b e l ig_S	NOUN;Case=Ter;Number=Sing
+∅_P k á b e l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k á b e l kig_S	NOUN;Case=Ter;Number=Plur
+∅_P k á b e l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k á b e l kként_S	NOUN;Case=Ess;Number=Plur
+∅_P k á b e l ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k á b e l n_S	NOUN;Case=Sup;Number=Sing
+∅_P k o k t é l p a r t i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o k t é l p a r t i k_S	NOUN;Case=Nom;Number=Plur
+∅_P k o k t é l p a r t i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o k t é l p a r t i t_S	NOUN;Case=Acc;Number=Sing
+∅_P k o k t é l p a r t i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o k t é l p a r t i ért_S	NOUN;Case=Cau;Number=Sing
+∅_P k o k t é l p a r t i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o k t é l p a r t i kért_S	NOUN;Case=Cau;Number=Plur
+∅_P k o k t é l p a r t i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o k t é l p a r t i ig_S	NOUN;Case=Ter;Number=Sing
+∅_P k o k t é l p a r t i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o k t é l p a r t i kig_S	NOUN;Case=Ter;Number=Plur
+∅_P k o k t é l p a r t i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o k t é l p a r t i kként_S	NOUN;Case=Ess;Number=Plur
+∅_P k o k t é l p a r t i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o k t é l p a r t i n_S	NOUN;Case=Sup;Number=Sing
+∅_P f o l y a m a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y a m a t k_S	NOUN;Case=Nom;Number=Plur
+∅_P f o l y a m a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y a m a t t_S	NOUN;Case=Acc;Number=Sing
+∅_P f o l y a m a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y a m a t ért_S	NOUN;Case=Cau;Number=Sing
+∅_P f o l y a m a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y a m a t kért_S	NOUN;Case=Cau;Number=Plur
+∅_P f o l y a m a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y a m a t ig_S	NOUN;Case=Ter;Number=Sing
+∅_P f o l y a m a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y a m a t kig_S	NOUN;Case=Ter;Number=Plur
+∅_P f o l y a m a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y a m a t kként_S	NOUN;Case=Ess;Number=Plur
+∅_P f o l y a m a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o l y a m a t n_S	NOUN;Case=Sup;Number=Sing
+∅_P g é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g é m k_S	NOUN;Case=Nom;Number=Plur
+∅_P g é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g é m t_S	NOUN;Case=Acc;Number=Sing
+∅_P g é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g é m ért_S	NOUN;Case=Cau;Number=Sing
+∅_P g é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g é m kért_S	NOUN;Case=Cau;Number=Plur
+∅_P g é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g é m ig_S	NOUN;Case=Ter;Number=Sing
+∅_P g é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g é m kig_S	NOUN;Case=Ter;Number=Plur
+∅_P g é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g é m kként_S	NOUN;Case=Ess;Number=Plur
+∅_P g é m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g é m n_S	NOUN;Case=Sup;Number=Sing
+∅_P f o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o g á s k_S	NOUN;Case=Nom;Number=Plur
+∅_P f o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o g á s t_S	NOUN;Case=Acc;Number=Sing
+∅_P f o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o g á s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P f o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o g á s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P f o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o g á s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P f o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o g á s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P f o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o g á s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P f o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f o g á s n_S	NOUN;Case=Sup;Number=Sing
+∅_P d é l - d é l n y u g a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d é l d é l n y u g a t k_S	NOUN;Case=Nom;Number=Plur
+∅_P d é l - d é l n y u g a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d é l d é l n y u g a t t_S	NOUN;Case=Acc;Number=Sing
+∅_P d é l - d é l n y u g a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d é l d é l n y u g a t ért_S	NOUN;Case=Cau;Number=Sing
+∅_P d é l - d é l n y u g a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d é l d é l n y u g a t kért_S	NOUN;Case=Cau;Number=Plur
+∅_P d é l - d é l n y u g a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d é l d é l n y u g a t ig_S	NOUN;Case=Ter;Number=Sing
+∅_P d é l - d é l n y u g a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d é l d é l n y u g a t kig_S	NOUN;Case=Ter;Number=Plur
+∅_P d é l - d é l n y u g a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d é l d é l n y u g a t kként_S	NOUN;Case=Ess;Number=Plur
+∅_P d é l - d é l n y u g a t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d é l d é l n y u g a t n_S	NOUN;Case=Sup;Number=Sing
+∅_P v á l t ó á r a m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v á l t ó á r a m k_S	NOUN;Case=Nom;Number=Plur
+∅_P v á l t ó á r a m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v á l t ó á r a m t_S	NOUN;Case=Acc;Number=Sing
+∅_P v á l t ó á r a m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v á l t ó á r a m ért_S	NOUN;Case=Cau;Number=Sing
+∅_P v á l t ó á r a m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v á l t ó á r a m kért_S	NOUN;Case=Cau;Number=Plur
+∅_P v á l t ó á r a m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v á l t ó á r a m ig_S	NOUN;Case=Ter;Number=Sing
+∅_P v á l t ó á r a m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v á l t ó á r a m kig_S	NOUN;Case=Ter;Number=Plur
+∅_P v á l t ó á r a m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v á l t ó á r a m kként_S	NOUN;Case=Ess;Number=Plur
+∅_P v á l t ó á r a m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v á l t ó á r a m n_S	NOUN;Case=Sup;Number=Sing
+∅_P b ú b o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b ú b o s k_S	NOUN;Case=Nom;Number=Plur
+∅_P b ú b o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b ú b o s t_S	NOUN;Case=Acc;Number=Sing
+∅_P b ú b o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b ú b o s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P b ú b o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b ú b o s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P b ú b o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b ú b o s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P b ú b o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b ú b o s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P b ú b o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b ú b o s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P b ú b o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b ú b o s n_S	NOUN;Case=Sup;Number=Sing
+∅_P e z e r e g y s z á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e z e r e g y s z á z k_S	NOUN;Case=Nom;Number=Plur
+∅_P e z e r e g y s z á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e z e r e g y s z á z t_S	NOUN;Case=Acc;Number=Sing
+∅_P e z e r e g y s z á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e z e r e g y s z á z ért_S	NOUN;Case=Cau;Number=Sing
+∅_P e z e r e g y s z á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e z e r e g y s z á z kért_S	NOUN;Case=Cau;Number=Plur
+∅_P e z e r e g y s z á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e z e r e g y s z á z ig_S	NOUN;Case=Ter;Number=Sing
+∅_P e z e r e g y s z á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e z e r e g y s z á z kig_S	NOUN;Case=Ter;Number=Plur
+∅_P e z e r e g y s z á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e z e r e g y s z á z kként_S	NOUN;Case=Ess;Number=Plur
+∅_P e z e r e g y s z á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e z e r e g y s z á z n_S	NOUN;Case=Sup;Number=Sing
+∅_P t á m o g a t ∅_S	VERB;VerbForm=Inf	∅_P t á m o g a t ott_S	VERB;Tense=Past
+∅_P t á m o g a t ∅_S	VERB;VerbForm=Inf	∅_P t á m o g a t ó_S	VERB;Tense=Pres
+∅_P t á m o g a t ∅_S	VERB;VerbForm=Inf	∅_P t á m o g a t va_S	
+∅_P t á m o g a t ∅_S	VERB;VerbForm=Inf	∅_P t á m o g a t unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P t á m o g a t ∅_S	VERB;VerbForm=Inf	∅_P t á m o g a t jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P t á m o g a t ∅_S	VERB;VerbForm=Inf	∅_P t á m o g a t jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P t á m o g a t ∅_S	VERB;VerbForm=Inf	∅_P t á m o g a t junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P t á m o g a t ∅_S	VERB;VerbForm=Inf	∅_P t á m o g a t jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P t á m o g a t ∅_S	VERB;VerbForm=Inf	∅_P t á m o g a t janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P c s a l á d f á j u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s a l á d f á j u k k_S	NOUN;Case=Nom;Number=Plur
+∅_P c s a l á d f á j u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s a l á d f á j u k t_S	NOUN;Case=Acc;Number=Sing
+∅_P c s a l á d f á j u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s a l á d f á j u k ért_S	NOUN;Case=Cau;Number=Sing
+∅_P c s a l á d f á j u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s a l á d f á j u k kért_S	NOUN;Case=Cau;Number=Plur
+∅_P c s a l á d f á j u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s a l á d f á j u k ig_S	NOUN;Case=Ter;Number=Sing
+∅_P c s a l á d f á j u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s a l á d f á j u k kig_S	NOUN;Case=Ter;Number=Plur
+∅_P c s a l á d f á j u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s a l á d f á j u k kként_S	NOUN;Case=Ess;Number=Plur
+∅_P c s a l á d f á j u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s a l á d f á j u k n_S	NOUN;Case=Sup;Number=Sing
+∅_P v a r i á n s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v a r i á n s k_S	NOUN;Case=Nom;Number=Plur
+∅_P v a r i á n s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v a r i á n s t_S	NOUN;Case=Acc;Number=Sing
+∅_P v a r i á n s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v a r i á n s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P v a r i á n s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v a r i á n s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P v a r i á n s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v a r i á n s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P v a r i á n s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v a r i á n s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P v a r i á n s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v a r i á n s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P v a r i á n s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v a r i á n s n_S	NOUN;Case=Sup;Number=Sing
+∅_P m e d v e c u k o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e d v e c u k o r k_S	NOUN;Case=Nom;Number=Plur
+∅_P m e d v e c u k o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e d v e c u k o r t_S	NOUN;Case=Acc;Number=Sing
+∅_P m e d v e c u k o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e d v e c u k o r ért_S	NOUN;Case=Cau;Number=Sing
+∅_P m e d v e c u k o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e d v e c u k o r kért_S	NOUN;Case=Cau;Number=Plur
+∅_P m e d v e c u k o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e d v e c u k o r ig_S	NOUN;Case=Ter;Number=Sing
+∅_P m e d v e c u k o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e d v e c u k o r kig_S	NOUN;Case=Ter;Number=Plur
+∅_P m e d v e c u k o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e d v e c u k o r kként_S	NOUN;Case=Ess;Number=Plur
+∅_P m e d v e c u k o r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m e d v e c u k o r n_S	NOUN;Case=Sup;Number=Sing
+∅_P t i l t a k o z i k ∅_S	VERB;VerbForm=Inf	∅_P t i l t a k o z ott_S	VERB;Tense=Past
+∅_P t i l t a k o z i k ∅_S	VERB;VerbForm=Inf	∅_P t i l t a k o z ó_S	VERB;Tense=Pres
+∅_P t i l t a k o z i k ∅_S	VERB;VerbForm=Inf	∅_P t i l t a k o z va_S	
+∅_P t i l t a k o z i k ∅_S	VERB;VerbForm=Inf	∅_P t i l t a k o z unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P t i l t a k o z i k ∅_S	VERB;VerbForm=Inf	∅_P t i l t a k o z jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P t i l t a k o z i k ∅_S	VERB;VerbForm=Inf	∅_P t i l t a k o z jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P t i l t a k o z i k ∅_S	VERB;VerbForm=Inf	∅_P t i l t a k o z junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P t i l t a k o z i k ∅_S	VERB;VerbForm=Inf	∅_P t i l t a k o z jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P t i l t a k o z i k ∅_S	VERB;VerbForm=Inf	∅_P t i l t a k o z janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P f ú r ó g é p ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ú r ó g é p k_S	NOUN;Case=Nom;Number=Plur
+∅_P f ú r ó g é p ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ú r ó g é p t_S	NOUN;Case=Acc;Number=Sing
+∅_P f ú r ó g é p ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ú r ó g é p ért_S	NOUN;Case=Cau;Number=Sing
+∅_P f ú r ó g é p ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ú r ó g é p kért_S	NOUN;Case=Cau;Number=Plur
+∅_P f ú r ó g é p ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ú r ó g é p ig_S	NOUN;Case=Ter;Number=Sing
+∅_P f ú r ó g é p ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ú r ó g é p kig_S	NOUN;Case=Ter;Number=Plur
+∅_P f ú r ó g é p ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ú r ó g é p kként_S	NOUN;Case=Ess;Number=Plur
+∅_P f ú r ó g é p ∅_S	NOUN;Case=Nom;Number=Sing	∅_P f ú r ó g é p n_S	NOUN;Case=Sup;Number=Sing
+∅_P h o m o r ú s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h o m o r ú s á g k_S	NOUN;Case=Nom;Number=Plur
+∅_P h o m o r ú s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h o m o r ú s á g t_S	NOUN;Case=Acc;Number=Sing
+∅_P h o m o r ú s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h o m o r ú s á g ért_S	NOUN;Case=Cau;Number=Sing
+∅_P h o m o r ú s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h o m o r ú s á g kért_S	NOUN;Case=Cau;Number=Plur
+∅_P h o m o r ú s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h o m o r ú s á g ig_S	NOUN;Case=Ter;Number=Sing
+∅_P h o m o r ú s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h o m o r ú s á g kig_S	NOUN;Case=Ter;Number=Plur
+∅_P h o m o r ú s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h o m o r ú s á g kként_S	NOUN;Case=Ess;Number=Plur
+∅_P h o m o r ú s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h o m o r ú s á g n_S	NOUN;Case=Sup;Number=Sing
+∅_P l e g e r ő s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g e r ő s e b b k_S	NOUN;Case=Nom;Number=Plur
+∅_P l e g e r ő s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g e r ő s e b b t_S	NOUN;Case=Acc;Number=Sing
+∅_P l e g e r ő s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g e r ő s e b b ért_S	NOUN;Case=Cau;Number=Sing
+∅_P l e g e r ő s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g e r ő s e b b kért_S	NOUN;Case=Cau;Number=Plur
+∅_P l e g e r ő s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g e r ő s e b b ig_S	NOUN;Case=Ter;Number=Sing
+∅_P l e g e r ő s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g e r ő s e b b kig_S	NOUN;Case=Ter;Number=Plur
+∅_P l e g e r ő s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g e r ő s e b b kként_S	NOUN;Case=Ess;Number=Plur
+∅_P l e g e r ő s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g e r ő s e b b n_S	NOUN;Case=Sup;Number=Sing
+∅_P m a g y a r í t á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m a g y a r í t á s k_S	NOUN;Case=Nom;Number=Plur
+∅_P m a g y a r í t á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m a g y a r í t á s t_S	NOUN;Case=Acc;Number=Sing
+∅_P m a g y a r í t á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m a g y a r í t á s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P m a g y a r í t á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m a g y a r í t á s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P m a g y a r í t á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m a g y a r í t á s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P m a g y a r í t á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m a g y a r í t á s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P m a g y a r í t á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m a g y a r í t á s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P m a g y a r í t á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P m a g y a r í t á s n_S	NOUN;Case=Sup;Number=Sing
+∅_P m e g é r d e m e l ∅_S	VERB;VerbForm=Inf	∅_P m e g é r d e m e l ett_S	VERB;Tense=Past
+∅_P m e g é r d e m e l ∅_S	VERB;VerbForm=Inf	∅_P m e g é r d e m e l ő_S	VERB;Tense=Pres
+∅_P m e g é r d e m e l ∅_S	VERB;VerbForm=Inf	∅_P m e g é r d e m e l ve_S	
+∅_P m e g é r d e m e l ∅_S	VERB;VerbForm=Inf	∅_P m e g é r d e m e l ek_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P m e g é r d e m e l ∅_S	VERB;VerbForm=Inf	∅_P m e g é r d e m e l ünk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P m e g é r d e m e l ∅_S	VERB;VerbForm=Inf	∅_P m e g é r d e m e l ik_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P i z z a d s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i z z a d s á g k_S	NOUN;Case=Nom;Number=Plur
+∅_P i z z a d s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i z z a d s á g t_S	NOUN;Case=Acc;Number=Sing
+∅_P i z z a d s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i z z a d s á g ért_S	NOUN;Case=Cau;Number=Sing
+∅_P i z z a d s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i z z a d s á g kért_S	NOUN;Case=Cau;Number=Plur
+∅_P i z z a d s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i z z a d s á g ig_S	NOUN;Case=Ter;Number=Sing
+∅_P i z z a d s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i z z a d s á g kig_S	NOUN;Case=Ter;Number=Plur
+∅_P i z z a d s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i z z a d s á g kként_S	NOUN;Case=Ess;Number=Plur
+∅_P i z z a d s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i z z a d s á g n_S	NOUN;Case=Sup;Number=Sing
+∅_P n a g y f r ö c c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n a g y f r ö c c s k_S	NOUN;Case=Nom;Number=Plur
+∅_P n a g y f r ö c c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n a g y f r ö c c s t_S	NOUN;Case=Acc;Number=Sing
+∅_P n a g y f r ö c c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n a g y f r ö c c s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P n a g y f r ö c c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n a g y f r ö c c s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P n a g y f r ö c c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n a g y f r ö c c s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P n a g y f r ö c c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n a g y f r ö c c s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P n a g y f r ö c c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n a g y f r ö c c s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P n a g y f r ö c c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n a g y f r ö c c s n_S	NOUN;Case=Sup;Number=Sing
+∅_P g á n c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g á n c s k_S	NOUN;Case=Nom;Number=Plur
+∅_P g á n c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g á n c s t_S	NOUN;Case=Acc;Number=Sing
+∅_P g á n c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g á n c s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P g á n c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g á n c s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P g á n c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g á n c s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P g á n c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g á n c s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P g á n c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g á n c s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P g á n c s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g á n c s n_S	NOUN;Case=Sup;Number=Sing
+∅_P a b r o s z u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a b r o s z u k k_S	NOUN;Case=Nom;Number=Plur
+∅_P a b r o s z u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a b r o s z u k t_S	NOUN;Case=Acc;Number=Sing
+∅_P a b r o s z u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a b r o s z u k ért_S	NOUN;Case=Cau;Number=Sing
+∅_P a b r o s z u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a b r o s z u k kért_S	NOUN;Case=Cau;Number=Plur
+∅_P a b r o s z u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a b r o s z u k ig_S	NOUN;Case=Ter;Number=Sing
+∅_P a b r o s z u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a b r o s z u k kig_S	NOUN;Case=Ter;Number=Plur
+∅_P a b r o s z u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a b r o s z u k kként_S	NOUN;Case=Ess;Number=Plur
+∅_P a b r o s z u k ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a b r o s z u k n_S	NOUN;Case=Sup;Number=Sing
+∅_P m e g v á l t o z t a t ∅_S	VERB;VerbForm=Inf	∅_P m e g v á l t o z t a t ott_S	VERB;Tense=Past
+∅_P m e g v á l t o z t a t ∅_S	VERB;VerbForm=Inf	∅_P m e g v á l t o z t a t ó_S	VERB;Tense=Pres
+∅_P m e g v á l t o z t a t ∅_S	VERB;VerbForm=Inf	∅_P m e g v á l t o z t a t va_S	
+∅_P m e g v á l t o z t a t ∅_S	VERB;VerbForm=Inf	∅_P m e g v á l t o z t a t unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P m e g v á l t o z t a t ∅_S	VERB;VerbForm=Inf	∅_P m e g v á l t o z t a t jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P m e g v á l t o z t a t ∅_S	VERB;VerbForm=Inf	∅_P m e g v á l t o z t a t jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P m e g v á l t o z t a t ∅_S	VERB;VerbForm=Inf	∅_P m e g v á l t o z t a t junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P m e g v á l t o z t a t ∅_S	VERB;VerbForm=Inf	∅_P m e g v á l t o z t a t jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P m e g v á l t o z t a t ∅_S	VERB;VerbForm=Inf	∅_P m e g v á l t o z t a t janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P e l b ó l i n t ∅_S	VERB;VerbForm=Inf	∅_P e l b ó l i n t ott_S	VERB;Tense=Past
+∅_P e l b ó l i n t ∅_S	VERB;VerbForm=Inf	∅_P e l b ó l i n t ó_S	VERB;Tense=Pres
+∅_P e l b ó l i n t ∅_S	VERB;VerbForm=Inf	∅_P e l b ó l i n t va_S	
+∅_P e l b ó l i n t ∅_S	VERB;VerbForm=Inf	∅_P e l b ó l i n t unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P e l b ó l i n t ∅_S	VERB;VerbForm=Inf	∅_P e l b ó l i n t jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P e l b ó l i n t ∅_S	VERB;VerbForm=Inf	∅_P e l b ó l i n t jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P e l b ó l i n t ∅_S	VERB;VerbForm=Inf	∅_P e l b ó l i n t junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P e l b ó l i n t ∅_S	VERB;VerbForm=Inf	∅_P e l b ó l i n t jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P e l b ó l i n t ∅_S	VERB;VerbForm=Inf	∅_P e l b ó l i n t janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P h a z á m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a z á m k_S	NOUN;Case=Nom;Number=Plur
+∅_P h a z á m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a z á m t_S	NOUN;Case=Acc;Number=Sing
+∅_P h a z á m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a z á m ért_S	NOUN;Case=Cau;Number=Sing
+∅_P h a z á m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a z á m kért_S	NOUN;Case=Cau;Number=Plur
+∅_P h a z á m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a z á m ig_S	NOUN;Case=Ter;Number=Sing
+∅_P h a z á m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a z á m kig_S	NOUN;Case=Ter;Number=Plur
+∅_P h a z á m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a z á m kként_S	NOUN;Case=Ess;Number=Plur
+∅_P h a z á m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a z á m n_S	NOUN;Case=Sup;Number=Sing
+∅_P l a p á t o l ∅_S	VERB;VerbForm=Inf	∅_P l a p á t o l ott_S	VERB;Tense=Past
+∅_P l a p á t o l ∅_S	VERB;VerbForm=Inf	∅_P l a p á t o l ó_S	VERB;Tense=Pres
+∅_P l a p á t o l ∅_S	VERB;VerbForm=Inf	∅_P l a p á t o l va_S	
+∅_P l a p á t o l ∅_S	VERB;VerbForm=Inf	∅_P l a p á t o l unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P l a p á t o l ∅_S	VERB;VerbForm=Inf	∅_P l a p á t o l jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P l a p á t o l ∅_S	VERB;VerbForm=Inf	∅_P l a p á t o l jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P l a p á t o l ∅_S	VERB;VerbForm=Inf	∅_P l a p á t o l junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P l a p á t o l ∅_S	VERB;VerbForm=Inf	∅_P l a p á t o l jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P l a p á t o l ∅_S	VERB;VerbForm=Inf	∅_P l a p á t o l janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P d í s z c s e r j e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d í s z c s e r j e k_S	NOUN;Case=Nom;Number=Plur
+∅_P d í s z c s e r j e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d í s z c s e r j e t_S	NOUN;Case=Acc;Number=Sing
+∅_P d í s z c s e r j e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d í s z c s e r j e ért_S	NOUN;Case=Cau;Number=Sing
+∅_P d í s z c s e r j e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d í s z c s e r j e kért_S	NOUN;Case=Cau;Number=Plur
+∅_P d í s z c s e r j e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d í s z c s e r j e ig_S	NOUN;Case=Ter;Number=Sing
+∅_P d í s z c s e r j e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d í s z c s e r j e kig_S	NOUN;Case=Ter;Number=Plur
+∅_P d í s z c s e r j e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d í s z c s e r j e kként_S	NOUN;Case=Ess;Number=Plur
+∅_P d í s z c s e r j e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P d í s z c s e r j e n_S	NOUN;Case=Sup;Number=Sing
+∅_P r ó z s a t e r m e s z t é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r ó z s a t e r m e s z t é s k_S	NOUN;Case=Nom;Number=Plur
+∅_P r ó z s a t e r m e s z t é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r ó z s a t e r m e s z t é s t_S	NOUN;Case=Acc;Number=Sing
+∅_P r ó z s a t e r m e s z t é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r ó z s a t e r m e s z t é s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P r ó z s a t e r m e s z t é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r ó z s a t e r m e s z t é s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P r ó z s a t e r m e s z t é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r ó z s a t e r m e s z t é s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P r ó z s a t e r m e s z t é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r ó z s a t e r m e s z t é s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P r ó z s a t e r m e s z t é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r ó z s a t e r m e s z t é s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P r ó z s a t e r m e s z t é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r ó z s a t e r m e s z t é s n_S	NOUN;Case=Sup;Number=Sing
+∅_P k o n t a k t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n t a k t u s k_S	NOUN;Case=Nom;Number=Plur
+∅_P k o n t a k t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n t a k t u s t_S	NOUN;Case=Acc;Number=Sing
+∅_P k o n t a k t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n t a k t u s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P k o n t a k t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n t a k t u s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P k o n t a k t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n t a k t u s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P k o n t a k t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n t a k t u s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P k o n t a k t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n t a k t u s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P k o n t a k t u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o n t a k t u s n_S	NOUN;Case=Sup;Number=Sing
+∅_P s z e z o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z e z o n k_S	NOUN;Case=Nom;Number=Plur
+∅_P s z e z o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z e z o n t_S	NOUN;Case=Acc;Number=Sing
+∅_P s z e z o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z e z o n ért_S	NOUN;Case=Cau;Number=Sing
+∅_P s z e z o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z e z o n kért_S	NOUN;Case=Cau;Number=Plur
+∅_P s z e z o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z e z o n ig_S	NOUN;Case=Ter;Number=Sing
+∅_P s z e z o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z e z o n kig_S	NOUN;Case=Ter;Number=Plur
+∅_P s z e z o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z e z o n kként_S	NOUN;Case=Ess;Number=Plur
+∅_P s z e z o n ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z e z o n n_S	NOUN;Case=Sup;Number=Sing
+∅_P p a r a s z t h á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a r a s z t h á z k_S	NOUN;Case=Nom;Number=Plur
+∅_P p a r a s z t h á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a r a s z t h á z t_S	NOUN;Case=Acc;Number=Sing
+∅_P p a r a s z t h á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a r a s z t h á z ért_S	NOUN;Case=Cau;Number=Sing
+∅_P p a r a s z t h á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a r a s z t h á z kért_S	NOUN;Case=Cau;Number=Plur
+∅_P p a r a s z t h á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a r a s z t h á z ig_S	NOUN;Case=Ter;Number=Sing
+∅_P p a r a s z t h á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a r a s z t h á z kig_S	NOUN;Case=Ter;Number=Plur
+∅_P p a r a s z t h á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a r a s z t h á z kként_S	NOUN;Case=Ess;Number=Plur
+∅_P p a r a s z t h á z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p a r a s z t h á z n_S	NOUN;Case=Sup;Number=Sing
+∅_P r e p a r á l ∅_S	VERB;VerbForm=Inf	∅_P r e p a r á l ott_S	VERB;Tense=Past
+∅_P r e p a r á l ∅_S	VERB;VerbForm=Inf	∅_P r e p a r á l ó_S	VERB;Tense=Pres
+∅_P r e p a r á l ∅_S	VERB;VerbForm=Inf	∅_P r e p a r á l va_S	
+∅_P r e p a r á l ∅_S	VERB;VerbForm=Inf	∅_P r e p a r á l unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P r e p a r á l ∅_S	VERB;VerbForm=Inf	∅_P r e p a r á l jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P r e p a r á l ∅_S	VERB;VerbForm=Inf	∅_P r e p a r á l jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P r e p a r á l ∅_S	VERB;VerbForm=Inf	∅_P r e p a r á l junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P r e p a r á l ∅_S	VERB;VerbForm=Inf	∅_P r e p a r á l jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P r e p a r á l ∅_S	VERB;VerbForm=Inf	∅_P r e p a r á l janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P p l a n e t á r i u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p l a n e t á r i u m k_S	NOUN;Case=Nom;Number=Plur
+∅_P p l a n e t á r i u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p l a n e t á r i u m t_S	NOUN;Case=Acc;Number=Sing
+∅_P p l a n e t á r i u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p l a n e t á r i u m ért_S	NOUN;Case=Cau;Number=Sing
+∅_P p l a n e t á r i u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p l a n e t á r i u m kért_S	NOUN;Case=Cau;Number=Plur
+∅_P p l a n e t á r i u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p l a n e t á r i u m ig_S	NOUN;Case=Ter;Number=Sing
+∅_P p l a n e t á r i u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p l a n e t á r i u m kig_S	NOUN;Case=Ter;Number=Plur
+∅_P p l a n e t á r i u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p l a n e t á r i u m kként_S	NOUN;Case=Ess;Number=Plur
+∅_P p l a n e t á r i u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P p l a n e t á r i u m n_S	NOUN;Case=Sup;Number=Sing
+∅_P n e o k l a s s z i k u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e o k l a s s z i k u s k_S	NOUN;Case=Nom;Number=Plur
+∅_P n e o k l a s s z i k u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e o k l a s s z i k u s t_S	NOUN;Case=Acc;Number=Sing
+∅_P n e o k l a s s z i k u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e o k l a s s z i k u s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P n e o k l a s s z i k u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e o k l a s s z i k u s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P n e o k l a s s z i k u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e o k l a s s z i k u s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P n e o k l a s s z i k u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e o k l a s s z i k u s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P n e o k l a s s z i k u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e o k l a s s z i k u s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P n e o k l a s s z i k u s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e o k l a s s z i k u s n_S	NOUN;Case=Sup;Number=Sing
+∅_P P e r s z e p o l i s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P e r s z e p o l i s z k_S	NOUN;Case=Nom;Number=Plur
+∅_P P e r s z e p o l i s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P e r s z e p o l i s z t_S	NOUN;Case=Acc;Number=Sing
+∅_P P e r s z e p o l i s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P e r s z e p o l i s z ért_S	NOUN;Case=Cau;Number=Sing
+∅_P P e r s z e p o l i s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P e r s z e p o l i s z kért_S	NOUN;Case=Cau;Number=Plur
+∅_P P e r s z e p o l i s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P e r s z e p o l i s z ig_S	NOUN;Case=Ter;Number=Sing
+∅_P P e r s z e p o l i s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P e r s z e p o l i s z kig_S	NOUN;Case=Ter;Number=Plur
+∅_P P e r s z e p o l i s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P e r s z e p o l i s z kként_S	NOUN;Case=Ess;Number=Plur
+∅_P P e r s z e p o l i s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P e r s z e p o l i s z n_S	NOUN;Case=Sup;Number=Sing
+∅_P b é g u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é g u m k_S	NOUN;Case=Nom;Number=Plur
+∅_P b é g u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é g u m t_S	NOUN;Case=Acc;Number=Sing
+∅_P b é g u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é g u m ért_S	NOUN;Case=Cau;Number=Sing
+∅_P b é g u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é g u m kért_S	NOUN;Case=Cau;Number=Plur
+∅_P b é g u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é g u m ig_S	NOUN;Case=Ter;Number=Sing
+∅_P b é g u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é g u m kig_S	NOUN;Case=Ter;Number=Plur
+∅_P b é g u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é g u m kként_S	NOUN;Case=Ess;Number=Plur
+∅_P b é g u m ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b é g u m n_S	NOUN;Case=Sup;Number=Sing
+∅_P g l é d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g l é d a k_S	NOUN;Case=Nom;Number=Plur
+∅_P g l é d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g l é d a t_S	NOUN;Case=Acc;Number=Sing
+∅_P g l é d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g l é d a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P g l é d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g l é d a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P g l é d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g l é d a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P g l é d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g l é d a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P g l é d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g l é d a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P g l é d a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g l é d a n_S	NOUN;Case=Sup;Number=Sing
+∅_P h a m v a s z t ∅_S	VERB;VerbForm=Inf	∅_P h a m v a s z t ott_S	VERB;Tense=Past
+∅_P h a m v a s z t ∅_S	VERB;VerbForm=Inf	∅_P h a m v a s z t ó_S	VERB;Tense=Pres
+∅_P h a m v a s z t ∅_S	VERB;VerbForm=Inf	∅_P h a m v a s z t va_S	
+∅_P h a m v a s z t ∅_S	VERB;VerbForm=Inf	∅_P h a m v a s z t unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P h a m v a s z t ∅_S	VERB;VerbForm=Inf	∅_P h a m v a s z t jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P h a m v a s z t ∅_S	VERB;VerbForm=Inf	∅_P h a m v a s z t jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P h a m v a s z t ∅_S	VERB;VerbForm=Inf	∅_P h a m v a s z t junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P h a m v a s z t ∅_S	VERB;VerbForm=Inf	∅_P h a m v a s z t jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P h a m v a s z t ∅_S	VERB;VerbForm=Inf	∅_P h a m v a s z t janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P m o t y o g ∅_S	VERB;VerbForm=Inf	∅_P m o t y o g ott_S	VERB;Tense=Past
+∅_P m o t y o g ∅_S	VERB;VerbForm=Inf	∅_P m o t y o g ó_S	VERB;Tense=Pres
+∅_P m o t y o g ∅_S	VERB;VerbForm=Inf	∅_P m o t y o g va_S	
+∅_P m o t y o g ∅_S	VERB;VerbForm=Inf	∅_P m o t y o g unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P m o t y o g ∅_S	VERB;VerbForm=Inf	∅_P m o t y o g jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P m o t y o g ∅_S	VERB;VerbForm=Inf	∅_P m o t y o g jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P m o t y o g ∅_S	VERB;VerbForm=Inf	∅_P m o t y o g junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P m o t y o g ∅_S	VERB;VerbForm=Inf	∅_P m o t y o g jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P m o t y o g ∅_S	VERB;VerbForm=Inf	∅_P m o t y o g janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P s i v a t a g i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s i v a t a g i k_S	NOUN;Case=Nom;Number=Plur
+∅_P s i v a t a g i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s i v a t a g i t_S	NOUN;Case=Acc;Number=Sing
+∅_P s i v a t a g i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s i v a t a g i ért_S	NOUN;Case=Cau;Number=Sing
+∅_P s i v a t a g i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s i v a t a g i kért_S	NOUN;Case=Cau;Number=Plur
+∅_P s i v a t a g i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s i v a t a g i ig_S	NOUN;Case=Ter;Number=Sing
+∅_P s i v a t a g i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s i v a t a g i kig_S	NOUN;Case=Ter;Number=Plur
+∅_P s i v a t a g i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s i v a t a g i kként_S	NOUN;Case=Ess;Number=Plur
+∅_P s i v a t a g i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s i v a t a g i n_S	NOUN;Case=Sup;Number=Sing
+∅_P b a l l a g ∅_S	VERB;VerbForm=Inf	∅_P b a l l a g ott_S	VERB;Tense=Past
+∅_P b a l l a g ∅_S	VERB;VerbForm=Inf	∅_P b a l l a g ó_S	VERB;Tense=Pres
+∅_P b a l l a g ∅_S	VERB;VerbForm=Inf	∅_P b a l l a g va_S	
+∅_P b a l l a g ∅_S	VERB;VerbForm=Inf	∅_P b a l l a g unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P b a l l a g ∅_S	VERB;VerbForm=Inf	∅_P b a l l a g jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P b a l l a g ∅_S	VERB;VerbForm=Inf	∅_P b a l l a g jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P b a l l a g ∅_S	VERB;VerbForm=Inf	∅_P b a l l a g junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P b a l l a g ∅_S	VERB;VerbForm=Inf	∅_P b a l l a g jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P b a l l a g ∅_S	VERB;VerbForm=Inf	∅_P b a l l a g janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P r o b b a n t o t t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r o b b a n t o t t k_S	NOUN;Case=Nom;Number=Plur
+∅_P r o b b a n t o t t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r o b b a n t o t t t_S	NOUN;Case=Acc;Number=Sing
+∅_P r o b b a n t o t t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r o b b a n t o t t ért_S	NOUN;Case=Cau;Number=Sing
+∅_P r o b b a n t o t t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r o b b a n t o t t kért_S	NOUN;Case=Cau;Number=Plur
+∅_P r o b b a n t o t t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r o b b a n t o t t ig_S	NOUN;Case=Ter;Number=Sing
+∅_P r o b b a n t o t t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r o b b a n t o t t kig_S	NOUN;Case=Ter;Number=Plur
+∅_P r o b b a n t o t t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r o b b a n t o t t kként_S	NOUN;Case=Ess;Number=Plur
+∅_P r o b b a n t o t t ∅_S	NOUN;Case=Nom;Number=Sing	∅_P r o b b a n t o t t n_S	NOUN;Case=Sup;Number=Sing
+∅_P h i d r o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i d r o l ó g i a k_S	NOUN;Case=Nom;Number=Plur
+∅_P h i d r o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i d r o l ó g i a t_S	NOUN;Case=Acc;Number=Sing
+∅_P h i d r o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i d r o l ó g i a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P h i d r o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i d r o l ó g i a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P h i d r o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i d r o l ó g i a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P h i d r o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i d r o l ó g i a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P h i d r o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i d r o l ó g i a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P h i d r o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h i d r o l ó g i a n_S	NOUN;Case=Sup;Number=Sing
+∅_P s o r o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s o r o s k_S	NOUN;Case=Nom;Number=Plur
+∅_P s o r o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s o r o s t_S	NOUN;Case=Acc;Number=Sing
+∅_P s o r o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s o r o s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P s o r o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s o r o s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P s o r o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s o r o s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P s o r o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s o r o s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P s o r o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s o r o s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P s o r o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s o r o s n_S	NOUN;Case=Sup;Number=Sing
+∅_P o r r c i m p a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P o r r c i m p a k_S	NOUN;Case=Nom;Number=Plur
+∅_P o r r c i m p a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P o r r c i m p a t_S	NOUN;Case=Acc;Number=Sing
+∅_P o r r c i m p a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P o r r c i m p a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P o r r c i m p a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P o r r c i m p a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P o r r c i m p a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P o r r c i m p a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P o r r c i m p a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P o r r c i m p a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P o r r c i m p a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P o r r c i m p a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P o r r c i m p a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P o r r c i m p a n_S	NOUN;Case=Sup;Number=Sing
+∅_P i n d í t v á n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n d í t v á n y k_S	NOUN;Case=Nom;Number=Plur
+∅_P i n d í t v á n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n d í t v á n y t_S	NOUN;Case=Acc;Number=Sing
+∅_P i n d í t v á n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n d í t v á n y ért_S	NOUN;Case=Cau;Number=Sing
+∅_P i n d í t v á n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n d í t v á n y kért_S	NOUN;Case=Cau;Number=Plur
+∅_P i n d í t v á n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n d í t v á n y ig_S	NOUN;Case=Ter;Number=Sing
+∅_P i n d í t v á n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n d í t v á n y kig_S	NOUN;Case=Ter;Number=Plur
+∅_P i n d í t v á n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n d í t v á n y kként_S	NOUN;Case=Ess;Number=Plur
+∅_P i n d í t v á n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i n d í t v á n y n_S	NOUN;Case=Sup;Number=Sing
+∅_P b e l e é r t ∅_S	VERB;VerbForm=Inf	∅_P b e l e é r t ett_S	VERB;Tense=Past
+∅_P b e l e é r t ∅_S	VERB;VerbForm=Inf	∅_P b e l e é r t ő_S	VERB;Tense=Pres
+∅_P b e l e é r t ∅_S	VERB;VerbForm=Inf	∅_P b e l e é r t ve_S	
+∅_P b e l e é r t ∅_S	VERB;VerbForm=Inf	∅_P b e l e é r t ek_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P b e l e é r t ∅_S	VERB;VerbForm=Inf	∅_P b e l e é r t ünk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P b e l e é r t ∅_S	VERB;VerbForm=Inf	∅_P b e l e é r t ik_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P k o o r d i n á t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o o r d i n á t a k_S	NOUN;Case=Nom;Number=Plur
+∅_P k o o r d i n á t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o o r d i n á t a t_S	NOUN;Case=Acc;Number=Sing
+∅_P k o o r d i n á t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o o r d i n á t a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P k o o r d i n á t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o o r d i n á t a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P k o o r d i n á t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o o r d i n á t a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P k o o r d i n á t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o o r d i n á t a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P k o o r d i n á t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o o r d i n á t a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P k o o r d i n á t a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P k o o r d i n á t a n_S	NOUN;Case=Sup;Number=Sing
+∅_P v o n y í t ∅_S	VERB;VerbForm=Inf	∅_P v o n y í t ott_S	VERB;Tense=Past
+∅_P v o n y í t ∅_S	VERB;VerbForm=Inf	∅_P v o n y í t ó_S	VERB;Tense=Pres
+∅_P v o n y í t ∅_S	VERB;VerbForm=Inf	∅_P v o n y í t va_S	
+∅_P v o n y í t ∅_S	VERB;VerbForm=Inf	∅_P v o n y í t unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P v o n y í t ∅_S	VERB;VerbForm=Inf	∅_P v o n y í t jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P v o n y í t ∅_S	VERB;VerbForm=Inf	∅_P v o n y í t jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P v o n y í t ∅_S	VERB;VerbForm=Inf	∅_P v o n y í t junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P v o n y í t ∅_S	VERB;VerbForm=Inf	∅_P v o n y í t jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P v o n y í t ∅_S	VERB;VerbForm=Inf	∅_P v o n y í t janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P i d e g k l i n i k a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i d e g k l i n i k a k_S	NOUN;Case=Nom;Number=Plur
+∅_P i d e g k l i n i k a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i d e g k l i n i k a t_S	NOUN;Case=Acc;Number=Sing
+∅_P i d e g k l i n i k a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i d e g k l i n i k a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P i d e g k l i n i k a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i d e g k l i n i k a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P i d e g k l i n i k a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i d e g k l i n i k a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P i d e g k l i n i k a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i d e g k l i n i k a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P i d e g k l i n i k a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i d e g k l i n i k a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P i d e g k l i n i k a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i d e g k l i n i k a n_S	NOUN;Case=Sup;Number=Sing
+∅_P s z ü l e i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z ü l e i k_S	NOUN;Case=Nom;Number=Plur
+∅_P s z ü l e i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z ü l e i t_S	NOUN;Case=Acc;Number=Sing
+∅_P s z ü l e i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z ü l e i ért_S	NOUN;Case=Cau;Number=Sing
+∅_P s z ü l e i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z ü l e i kért_S	NOUN;Case=Cau;Number=Plur
+∅_P s z ü l e i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z ü l e i ig_S	NOUN;Case=Ter;Number=Sing
+∅_P s z ü l e i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z ü l e i kig_S	NOUN;Case=Ter;Number=Plur
+∅_P s z ü l e i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z ü l e i kként_S	NOUN;Case=Ess;Number=Plur
+∅_P s z ü l e i ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z ü l e i n_S	NOUN;Case=Sup;Number=Sing
+∅_P s z c i e n t o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z c i e n t o l ó g i a k_S	NOUN;Case=Nom;Number=Plur
+∅_P s z c i e n t o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z c i e n t o l ó g i a t_S	NOUN;Case=Acc;Number=Sing
+∅_P s z c i e n t o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z c i e n t o l ó g i a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P s z c i e n t o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z c i e n t o l ó g i a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P s z c i e n t o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z c i e n t o l ó g i a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P s z c i e n t o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z c i e n t o l ó g i a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P s z c i e n t o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z c i e n t o l ó g i a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P s z c i e n t o l ó g i a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P s z c i e n t o l ó g i a n_S	NOUN;Case=Sup;Number=Sing
+∅_P K e r t é s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P K e r t é s z k_S	NOUN;Case=Nom;Number=Plur
+∅_P K e r t é s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P K e r t é s z t_S	NOUN;Case=Acc;Number=Sing
+∅_P K e r t é s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P K e r t é s z ért_S	NOUN;Case=Cau;Number=Sing
+∅_P K e r t é s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P K e r t é s z kért_S	NOUN;Case=Cau;Number=Plur
+∅_P K e r t é s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P K e r t é s z ig_S	NOUN;Case=Ter;Number=Sing
+∅_P K e r t é s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P K e r t é s z kig_S	NOUN;Case=Ter;Number=Plur
+∅_P K e r t é s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P K e r t é s z kként_S	NOUN;Case=Ess;Number=Plur
+∅_P K e r t é s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P K e r t é s z n_S	NOUN;Case=Sup;Number=Sing
+∅_P S z ü g y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P S z ü g y k_S	NOUN;Case=Nom;Number=Plur
+∅_P S z ü g y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P S z ü g y t_S	NOUN;Case=Acc;Number=Sing
+∅_P S z ü g y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P S z ü g y ért_S	NOUN;Case=Cau;Number=Sing
+∅_P S z ü g y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P S z ü g y kért_S	NOUN;Case=Cau;Number=Plur
+∅_P S z ü g y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P S z ü g y ig_S	NOUN;Case=Ter;Number=Sing
+∅_P S z ü g y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P S z ü g y kig_S	NOUN;Case=Ter;Number=Plur
+∅_P S z ü g y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P S z ü g y kként_S	NOUN;Case=Ess;Number=Plur
+∅_P S z ü g y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P S z ü g y n_S	NOUN;Case=Sup;Number=Sing
+∅_P l e v e l e z ∅_S	VERB;VerbForm=Inf	∅_P l e v e l e z ett_S	VERB;Tense=Past
+∅_P l e v e l e z ∅_S	VERB;VerbForm=Inf	∅_P l e v e l e z ő_S	VERB;Tense=Pres
+∅_P l e v e l e z ∅_S	VERB;VerbForm=Inf	∅_P l e v e l e z ve_S	
+∅_P l e v e l e z ∅_S	VERB;VerbForm=Inf	∅_P l e v e l e z ek_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P l e v e l e z ∅_S	VERB;VerbForm=Inf	∅_P l e v e l e z ünk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P l e v e l e z ∅_S	VERB;VerbForm=Inf	∅_P l e v e l e z ik_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P v é t e l e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é t e l e k_S	NOUN;Case=Nom;Number=Plur
+∅_P v é t e l e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é t e l e t_S	NOUN;Case=Acc;Number=Sing
+∅_P v é t e l e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é t e l e ért_S	NOUN;Case=Cau;Number=Sing
+∅_P v é t e l e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é t e l e kért_S	NOUN;Case=Cau;Number=Plur
+∅_P v é t e l e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é t e l e ig_S	NOUN;Case=Ter;Number=Sing
+∅_P v é t e l e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é t e l e kig_S	NOUN;Case=Ter;Number=Plur
+∅_P v é t e l e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é t e l e kként_S	NOUN;Case=Ess;Number=Plur
+∅_P v é t e l e ∅_S	NOUN;Case=Nom;Number=Sing	∅_P v é t e l e n_S	NOUN;Case=Sup;Number=Sing
+∅_P n e m z e t b i z t o n s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e m z e t b i z t o n s á g k_S	NOUN;Case=Nom;Number=Plur
+∅_P n e m z e t b i z t o n s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e m z e t b i z t o n s á g t_S	NOUN;Case=Acc;Number=Sing
+∅_P n e m z e t b i z t o n s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e m z e t b i z t o n s á g ért_S	NOUN;Case=Cau;Number=Sing
+∅_P n e m z e t b i z t o n s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e m z e t b i z t o n s á g kért_S	NOUN;Case=Cau;Number=Plur
+∅_P n e m z e t b i z t o n s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e m z e t b i z t o n s á g ig_S	NOUN;Case=Ter;Number=Sing
+∅_P n e m z e t b i z t o n s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e m z e t b i z t o n s á g kig_S	NOUN;Case=Ter;Number=Plur
+∅_P n e m z e t b i z t o n s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e m z e t b i z t o n s á g kként_S	NOUN;Case=Ess;Number=Plur
+∅_P n e m z e t b i z t o n s á g ∅_S	NOUN;Case=Nom;Number=Sing	∅_P n e m z e t b i z t o n s á g n_S	NOUN;Case=Sup;Number=Sing
+∅_P i s z o n y a t o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i s z o n y a t o s k_S	NOUN;Case=Nom;Number=Plur
+∅_P i s z o n y a t o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i s z o n y a t o s t_S	NOUN;Case=Acc;Number=Sing
+∅_P i s z o n y a t o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i s z o n y a t o s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P i s z o n y a t o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i s z o n y a t o s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P i s z o n y a t o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i s z o n y a t o s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P i s z o n y a t o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i s z o n y a t o s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P i s z o n y a t o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i s z o n y a t o s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P i s z o n y a t o s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P i s z o n y a t o s n_S	NOUN;Case=Sup;Number=Sing
+∅_P t ö r v é n y k e z é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t ö r v é n y k e z é s k_S	NOUN;Case=Nom;Number=Plur
+∅_P t ö r v é n y k e z é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t ö r v é n y k e z é s t_S	NOUN;Case=Acc;Number=Sing
+∅_P t ö r v é n y k e z é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t ö r v é n y k e z é s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P t ö r v é n y k e z é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t ö r v é n y k e z é s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P t ö r v é n y k e z é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t ö r v é n y k e z é s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P t ö r v é n y k e z é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t ö r v é n y k e z é s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P t ö r v é n y k e z é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t ö r v é n y k e z é s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P t ö r v é n y k e z é s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P t ö r v é n y k e z é s n_S	NOUN;Case=Sup;Number=Sing
+∅_P P a r k i n s o n - k ó r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P a r k i n s o n k ó r k_S	NOUN;Case=Nom;Number=Plur
+∅_P P a r k i n s o n - k ó r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P a r k i n s o n k ó r t_S	NOUN;Case=Acc;Number=Sing
+∅_P P a r k i n s o n - k ó r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P a r k i n s o n k ó r ért_S	NOUN;Case=Cau;Number=Sing
+∅_P P a r k i n s o n - k ó r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P a r k i n s o n k ó r kért_S	NOUN;Case=Cau;Number=Plur
+∅_P P a r k i n s o n - k ó r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P a r k i n s o n k ó r ig_S	NOUN;Case=Ter;Number=Sing
+∅_P P a r k i n s o n - k ó r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P a r k i n s o n k ó r kig_S	NOUN;Case=Ter;Number=Plur
+∅_P P a r k i n s o n - k ó r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P a r k i n s o n k ó r kként_S	NOUN;Case=Ess;Number=Plur
+∅_P P a r k i n s o n - k ó r ∅_S	NOUN;Case=Nom;Number=Sing	∅_P P a r k i n s o n k ó r n_S	NOUN;Case=Sup;Number=Sing
+∅_P l e g t e r j e d e l m e s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g t e r j e d e l m e s e b b k_S	NOUN;Case=Nom;Number=Plur
+∅_P l e g t e r j e d e l m e s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g t e r j e d e l m e s e b b t_S	NOUN;Case=Acc;Number=Sing
+∅_P l e g t e r j e d e l m e s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g t e r j e d e l m e s e b b ért_S	NOUN;Case=Cau;Number=Sing
+∅_P l e g t e r j e d e l m e s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g t e r j e d e l m e s e b b kért_S	NOUN;Case=Cau;Number=Plur
+∅_P l e g t e r j e d e l m e s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g t e r j e d e l m e s e b b ig_S	NOUN;Case=Ter;Number=Sing
+∅_P l e g t e r j e d e l m e s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g t e r j e d e l m e s e b b kig_S	NOUN;Case=Ter;Number=Plur
+∅_P l e g t e r j e d e l m e s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g t e r j e d e l m e s e b b kként_S	NOUN;Case=Ess;Number=Plur
+∅_P l e g t e r j e d e l m e s e b b ∅_S	NOUN;Case=Nom;Number=Sing	∅_P l e g t e r j e d e l m e s e b b n_S	NOUN;Case=Sup;Number=Sing
+∅_P m e g n e h e z í t ∅_S	VERB;VerbForm=Inf	∅_P m e g n e h e z í t ett_S	VERB;Tense=Past
+∅_P m e g n e h e z í t ∅_S	VERB;VerbForm=Inf	∅_P m e g n e h e z í t ő_S	VERB;Tense=Pres
+∅_P m e g n e h e z í t ∅_S	VERB;VerbForm=Inf	∅_P m e g n e h e z í t ve_S	
+∅_P m e g n e h e z í t ∅_S	VERB;VerbForm=Inf	∅_P m e g n e h e z í t ek_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P m e g n e h e z í t ∅_S	VERB;VerbForm=Inf	∅_P m e g n e h e z í t ünk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P m e g n e h e z í t ∅_S	VERB;VerbForm=Inf	∅_P m e g n e h e z í t ik_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P e l v é g e z h e t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e l v é g e z h e t ő k_S	NOUN;Case=Nom;Number=Plur
+∅_P e l v é g e z h e t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e l v é g e z h e t ő t_S	NOUN;Case=Acc;Number=Sing
+∅_P e l v é g e z h e t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e l v é g e z h e t ő ért_S	NOUN;Case=Cau;Number=Sing
+∅_P e l v é g e z h e t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e l v é g e z h e t ő kért_S	NOUN;Case=Cau;Number=Plur
+∅_P e l v é g e z h e t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e l v é g e z h e t ő ig_S	NOUN;Case=Ter;Number=Sing
+∅_P e l v é g e z h e t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e l v é g e z h e t ő kig_S	NOUN;Case=Ter;Number=Plur
+∅_P e l v é g e z h e t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e l v é g e z h e t ő kként_S	NOUN;Case=Ess;Number=Plur
+∅_P e l v é g e z h e t ő ∅_S	NOUN;Case=Nom;Number=Sing	∅_P e l v é g e z h e t ő n_S	NOUN;Case=Sup;Number=Sing
+∅_P ó v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P ó v ó k_S	NOUN;Case=Nom;Number=Plur
+∅_P ó v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P ó v ó t_S	NOUN;Case=Acc;Number=Sing
+∅_P ó v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P ó v ó ért_S	NOUN;Case=Cau;Number=Sing
+∅_P ó v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P ó v ó kért_S	NOUN;Case=Cau;Number=Plur
+∅_P ó v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P ó v ó ig_S	NOUN;Case=Ter;Number=Sing
+∅_P ó v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P ó v ó kig_S	NOUN;Case=Ter;Number=Plur
+∅_P ó v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P ó v ó kként_S	NOUN;Case=Ess;Number=Plur
+∅_P ó v ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P ó v ó n_S	NOUN;Case=Sup;Number=Sing
+∅_P g y o m n ö v é n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g y o m n ö v é n y k_S	NOUN;Case=Nom;Number=Plur
+∅_P g y o m n ö v é n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g y o m n ö v é n y t_S	NOUN;Case=Acc;Number=Sing
+∅_P g y o m n ö v é n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g y o m n ö v é n y ért_S	NOUN;Case=Cau;Number=Sing
+∅_P g y o m n ö v é n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g y o m n ö v é n y kért_S	NOUN;Case=Cau;Number=Plur
+∅_P g y o m n ö v é n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g y o m n ö v é n y ig_S	NOUN;Case=Ter;Number=Sing
+∅_P g y o m n ö v é n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g y o m n ö v é n y kig_S	NOUN;Case=Ter;Number=Plur
+∅_P g y o m n ö v é n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g y o m n ö v é n y kként_S	NOUN;Case=Ess;Number=Plur
+∅_P g y o m n ö v é n y ∅_S	NOUN;Case=Nom;Number=Sing	∅_P g y o m n ö v é n y n_S	NOUN;Case=Sup;Number=Sing
+∅_P c s i l l o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s i l l o g á s k_S	NOUN;Case=Nom;Number=Plur
+∅_P c s i l l o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s i l l o g á s t_S	NOUN;Case=Acc;Number=Sing
+∅_P c s i l l o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s i l l o g á s ért_S	NOUN;Case=Cau;Number=Sing
+∅_P c s i l l o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s i l l o g á s kért_S	NOUN;Case=Cau;Number=Plur
+∅_P c s i l l o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s i l l o g á s ig_S	NOUN;Case=Ter;Number=Sing
+∅_P c s i l l o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s i l l o g á s kig_S	NOUN;Case=Ter;Number=Plur
+∅_P c s i l l o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s i l l o g á s kként_S	NOUN;Case=Ess;Number=Plur
+∅_P c s i l l o g á s ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s i l l o g á s n_S	NOUN;Case=Sup;Number=Sing
+∅_P h a n g y á s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a n g y á s z k_S	NOUN;Case=Nom;Number=Plur
+∅_P h a n g y á s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a n g y á s z t_S	NOUN;Case=Acc;Number=Sing
+∅_P h a n g y á s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a n g y á s z ért_S	NOUN;Case=Cau;Number=Sing
+∅_P h a n g y á s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a n g y á s z kért_S	NOUN;Case=Cau;Number=Plur
+∅_P h a n g y á s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a n g y á s z ig_S	NOUN;Case=Ter;Number=Sing
+∅_P h a n g y á s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a n g y á s z kig_S	NOUN;Case=Ter;Number=Plur
+∅_P h a n g y á s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a n g y á s z kként_S	NOUN;Case=Ess;Number=Plur
+∅_P h a n g y á s z ∅_S	NOUN;Case=Nom;Number=Sing	∅_P h a n g y á s z n_S	NOUN;Case=Sup;Number=Sing
+∅_P c s e r e s z n y e f a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s e r e s z n y e f a k_S	NOUN;Case=Nom;Number=Plur
+∅_P c s e r e s z n y e f a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s e r e s z n y e f a t_S	NOUN;Case=Acc;Number=Sing
+∅_P c s e r e s z n y e f a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s e r e s z n y e f a ért_S	NOUN;Case=Cau;Number=Sing
+∅_P c s e r e s z n y e f a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s e r e s z n y e f a kért_S	NOUN;Case=Cau;Number=Plur
+∅_P c s e r e s z n y e f a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s e r e s z n y e f a ig_S	NOUN;Case=Ter;Number=Sing
+∅_P c s e r e s z n y e f a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s e r e s z n y e f a kig_S	NOUN;Case=Ter;Number=Plur
+∅_P c s e r e s z n y e f a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s e r e s z n y e f a kként_S	NOUN;Case=Ess;Number=Plur
+∅_P c s e r e s z n y e f a ∅_S	NOUN;Case=Nom;Number=Sing	∅_P c s e r e s z n y e f a n_S	NOUN;Case=Sup;Number=Sing
+∅_P c s í r á z i k ∅_S	VERB;VerbForm=Inf	∅_P c s í r á z ott_S	VERB;Tense=Past
+∅_P c s í r á z i k ∅_S	VERB;VerbForm=Inf	∅_P c s í r á z ó_S	VERB;Tense=Pres
+∅_P c s í r á z i k ∅_S	VERB;VerbForm=Inf	∅_P c s í r á z va_S	
+∅_P c s í r á z i k ∅_S	VERB;VerbForm=Inf	∅_P c s í r á z unk_S	VERB;Mood=Ind;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P c s í r á z i k ∅_S	VERB;VerbForm=Inf	∅_P c s í r á z jak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Sing
+∅_P c s í r á z i k ∅_S	VERB;VerbForm=Inf	∅_P c s í r á z jon_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Sing
+∅_P c s í r á z i k ∅_S	VERB;VerbForm=Inf	∅_P c s í r á z junk_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=1;Number=Plur
+∅_P c s í r á z i k ∅_S	VERB;VerbForm=Inf	∅_P c s í r á z jatok_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=2;Number=Plur
+∅_P c s í r á z i k ∅_S	VERB;VerbForm=Inf	∅_P c s í r á z janak_S	VERB;Mood=Sub;Tense=Pres;Definite=Ind;Person=3;Number=Plur
+∅_P b e f o g ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b e f o g ó k_S	NOUN;Case=Nom;Number=Plur
+∅_P b e f o g ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b e f o g ó t_S	NOUN;Case=Acc;Number=Sing
+∅_P b e f o g ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b e f o g ó ért_S	NOUN;Case=Cau;Number=Sing
+∅_P b e f o g ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b e f o g ó kért_S	NOUN;Case=Cau;Number=Plur
+∅_P b e f o g ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b e f o g ó ig_S	NOUN;Case=Ter;Number=Sing
+∅_P b e f o g ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b e f o g ó kig_S	NOUN;Case=Ter;Number=Plur
+∅_P b e f o g ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b e f o g ó kként_S	NOUN;Case=Ess;Number=Plur
+∅_P b e f o g ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P b e f o g ó n_S	NOUN;Case=Sup;Number=Sing
+∅_P a l u l j á r ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a l u l j á r ó k_S	NOUN;Case=Nom;Number=Plur
+∅_P a l u l j á r ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a l u l j á r ó t_S	NOUN;Case=Acc;Number=Sing
+∅_P a l u l j á r ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a l u l j á r ó ért_S	NOUN;Case=Cau;Number=Sing
+∅_P a l u l j á r ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a l u l j á r ó kért_S	NOUN;Case=Cau;Number=Plur
+∅_P a l u l j á r ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a l u l j á r ó ig_S	NOUN;Case=Ter;Number=Sing
+∅_P a l u l j á r ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a l u l j á r ó kig_S	NOUN;Case=Ter;Number=Plur
+∅_P a l u l j á r ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a l u l j á r ó kként_S	NOUN;Case=Ess;Number=Plur
+∅_P a l u l j á r ó ∅_S	NOUN;Case=Nom;Number=Sing	∅_P a l u l j á r ó n_S	NOUN;Case=Sup;Number=Sing
