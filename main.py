@@ -27,7 +27,6 @@ from decode import decode_dataset, evaluate
 
 args = parse_args()
 lang = args.lang
-print(lang, "\n")
 
 decoded_words_unseen = {}
 decoded_words = {}
@@ -39,7 +38,9 @@ if not os.path.exists(args.path + "checkpoints/" + lang):
     os.mkdir(args.path + "checkpoints/" + lang)
 
 # Initialize dataset
-dataset = Dataset(args.path + "data/" + lang + "/" + lang + "_train.txt", train=True)  # toy?
+dataset = Dataset(
+    args.path + "data/" + lang + "/" + lang + "_train.txt", train=True
+) 
 
 
 # Initialize models
@@ -59,8 +60,6 @@ decoder = LuongAttnDecoderRNN(
 )
 
 # Initialize optimizers and criterion
-# encoder_optimizer = optim.Adam(encoder.parameters(), lr=args.learning_rate)
-# decoder_optimizer = optim.Adam(decoder.parameters(), lr=args.learning_rate * decoder_learning_ratio)
 encoder_optimizer = optim.Adadelta(encoder.parameters())
 decoder_optimizer = optim.Adadelta(decoder.parameters())
 criterion = nn.CrossEntropyLoss()
@@ -70,16 +69,18 @@ if args.USE_CUDA:
     encoder.cuda()
     decoder.cuda()
 
-train(dataset,
-       args.batch_size,
-       args.n_epochs,
-       encoder,
-       decoder,
-       encoder_optimizer,
-       decoder_optimizer,
-       criterion,
-       args.checkpoint_dir,
-       lang)
+train(
+    dataset,
+    args.batch_size,
+    args.n_epochs,
+    encoder,
+    decoder,
+    encoder_optimizer,
+    decoder_optimizer,
+    criterion,
+    args.checkpoint_dir,
+    lang
+)
 
 # evaluate
 
@@ -95,19 +96,25 @@ decoder_last_state = sorted(
 )[-1]
 print(decoder_last_state)
 
-encoder.load_state_dict(torch.load(args.path + "checkpoints/" + lang + "/" + encoder_last_state))
-decoder.load_state_dict(torch.load(args.path + "checkpoints/" + lang + "/" + decoder_last_state))
+encoder.load_state_dict(
+    torch.load(args.path + "checkpoints/" + lang + "/" + encoder_last_state)
+)
+decoder.load_state_dict(
+    torch.load(args.path + "checkpoints/" + lang + "/" + decoder_last_state)
+)
 
 
 # predict for test
-
-# predict for unseen
 figs_path = args.path + "figs/" + lang + "/test"
 if not os.path.exists(figs_path):
     os.makedirs(figs_path)
 
 decoded_words_test = decode_dataset(
-   args.path +  "data/" + lang + "/" + lang + "_test.txt", encoder, decoder, dataset, figs_path
+    args.path + "data/" + lang + "/" + lang + "_test.txt",
+    encoder,
+    decoder,
+    dataset,
+    figs_path,
 )
 print("test results")
 
@@ -119,7 +126,11 @@ if not os.path.exists(figs_path):
     os.makedirs(figs_path)
 
 decoded_words_unseen = decode_dataset(
-   args.path +  "data/" + lang + "/" + lang + "_unseen.txt", encoder, decoder, dataset, figs_path
+    args.path + "data/" + lang + "/" + lang + "_unseen.txt",
+    encoder,
+    decoder,
+    dataset,
+    figs_path,
 )
 print("unseen results")
 

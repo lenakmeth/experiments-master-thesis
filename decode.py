@@ -219,10 +219,10 @@ def evaluate(decoded_words, lang):
         lang, time.strftime("%d%m%y-%H%M%S")
     )
     with open(filename, "w", encoding="utf-8") as f:
-        f.write("total num:\t" + str(len(decoded_words)) + '\n')
-        f.write("no or rights:\t" + str(right) + '\n')
-        f.write("no of wrongs:\t" + str(wrong) + '\n')
-        f.write("acc:\t" + str(right / len(decoded_words)) + '\n')
+        f.write("total num:\t" + str(len(decoded_words)) + "\n")
+        f.write("no or rights:\t" + str(right) + "\n")
+        f.write("no of wrongs:\t" + str(wrong) + "\n")
+        f.write("acc:\t" + str(right / len(decoded_words)) + "\n")
         # f.write("lev:\t" + str(lev_percentage / len(decoded_words)) + '\n')
 
     return wrong_preds

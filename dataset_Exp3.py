@@ -48,10 +48,6 @@ def load_dataset(file_name, train_threshold):
                     l = line.strip().split("\t")
                     l[0] = l[0].lower()  # source
                     l[2] = l[2].lower()  # target
-
-                    #                    l[0] = ''.join(reversed(list(l[0].lower()))) # source
-                    #                    l[2] = ''.join(reversed(list(l[2].lower()))) # target
-
                     l[1] = l[1].split(";")  # source features
                     l[3] = l[3].split(";")  # target features
                     inputs.append([l[1], l[0], l[3]])

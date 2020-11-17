@@ -17,7 +17,7 @@ def my_collate_fn(data):
         src_lengths: list of length (batch_size); valid length for each padded source sequence.
         trg_seqs: torch tensor of shape (batch_size, padded_length).
         trg_lengths: list of length (batch_size); valid length for each padded target sequence.
-        
+
     Code adapted from https://github.com/yunjey/seq2seq-dataloader
     """
 

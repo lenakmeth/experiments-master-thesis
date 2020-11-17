@@ -65,8 +65,6 @@ def load_dataset(file_name, train_threshold):
 def enhance_dataset(inputs, outputs):
     inputs_cpy = inputs.copy()
     outputs_cpy = outputs.copy()
-    #    inputs_cpy[:, [0, 1]] = inputs_cpy[:, [1, 0]]
-    #    inputs_cpy[:, 1], outputs_cpy[:] = outputs_cpy[:], inputs_cpy[:, 1]
     inputs = np.concatenate((inputs, inputs_cpy), axis=0)
     outputs = np.concatenate((outputs, outputs_cpy), axis=0)
     return inputs, outputs
@@ -77,30 +75,18 @@ def preprocess_data(inputs, outputs, train):
     if train:
         if len(inputs) < 20000:
             inputs, outputs = enhance_dataset(inputs, outputs)
-        #        inputs = edit_tags(inputs)
-        #        inputs[:, [1, 2]] = inputs[:, [2, 1]]
         inputs = transform_to_sequences(inputs)
         input_vocab = make_input_vocab(inputs)
         output_vocab = make_output_vocab(outputs)
         return inputs, outputs, input_vocab, output_vocab
     else:
-        #        inputs = edit_tags(inputs)
-        #        inputs[:, [1, 2]] = inputs[:, [2, 1]]
         inputs = transform_to_sequences(inputs)
         return inputs, outputs
 
 
-# def edit_tags(inputs):
-#    for i in range(0, inputs.shape[0]):
-##        inputs[i, 0] = np.array(["IN=" + x for x in inputs[i, 0]])
-#        inputs[i, 1] = np.array(["OUT=" + x for x in inputs[i, 1]])
-#    return inputs
-
 
 def transform_to_sequences(inputs):
     input_seq = np.array(
-        #        [np.concatenate((inputs[i, 0], inputs[i, 1], list(inputs[i, 2].split(' '))))
-        #         for i in range(inputs.shape[0])]
         [
             np.concatenate((inputs[i, 0], list(inputs[i, 1])))
             for i in range(inputs.shape[0])
@@ -134,33 +120,8 @@ def make_output_vocab(data):
         char_to_idx[char_set[i]] = i + 4
     return idx_to_char, char_to_idx
 
-
-# def get_input_indices(input, vocab):
-#    indices = []
-#    for ch in input:
-#        try:
-#            indices.append(vocab[ch])
-#        except KeyError:
-#            indices.append(0)
-#    indices.append(vocab[UNK_TOKEN])
-#
-#    return indices
-#
-# def get_output_indices(output, vocab):
-#    indices = []
-#    for ch in output.split(' '):
-#        try:
-#            indices.append(vocab[ch])
-#        except KeyError:
-#            indices.append(0)
-#    indices.append(vocab[UNK_TOKEN])
-#
-#    return indices
-
-
 def get_input_indices(input, vocab):
     v = [vocab[ch] for ch in input] + [vocab[EOS_TOKEN]]
-    # print(v)
     # v[3] = "ö"
 
     return v
